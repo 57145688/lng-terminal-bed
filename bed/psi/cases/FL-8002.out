@@ -1,0 +1,136 @@
+PSI Analysis and Design
+Version: 0.0.1 
+Design Codes: All Codes
+
+Input File: E:\trae\trae workspace\nsc-ChemE-as-Code\lng-terminal-bed\bed\psi\cases\FL-8002.inp 
+
+*** Preprocessing, initializing analysis...
+*** Switching to base units.
+*** Solving primary loadcases...
+*** Solving loadcase l1
+    --> Assembling system stiffness and force matrices.
+    --> Solving system equations for displacements.
+    --> Post processing elements...
+    --> Calculating support reactions and internal forces
+    --> Writing loadcase results data.
+*** Solving loadcase l2
+    --> Assembling system stiffness and force matrices.
+    --> Solving system equations for displacements.
+    --> Post processing elements...
+    --> Calculating support reactions and internal forces
+    --> Writing loadcase results data.
+*** Switching back to user units.
+*** Performing element code checking.
+*** Code checking complete.
+*** Analysis complete!
+
+PSI 0.0.1, DATE: 2026-11-25 TIME: 04:38 AM
+JOB NAME: None
+LICENSED TO: PSI Community
+STRESSES: Stresses Report
+
+
+L1 (SUS) W[1] + P[1]
+
+
+                                 STRESSES (psi)                       
+
+NODE            HOOP     AXIAL   TORSION  PRESSURE   BENDING      CODE     RATIO
+
+10             264.0       0.0      -3.4     127.9      69.3     197.5      0.02
+20             264.0       0.0      -3.4     127.9       6.2     137.1      0.01
+30             264.0       0.0       0.0     127.9       0.0     127.9      0.01
+
+
+
+PSI 0.0.1, DATE: 2026-11-25 TIME: 04:38 AM
+JOB NAME: None
+LICENSED TO: PSI Community
+STRESSES: Stresses Report
+
+
+L2 (EXP) T[1]
+
+
+                                 STRESSES (psi)                       
+
+NODE            HOOP     AXIAL   TORSION  PRESSURE   BENDING      CODE     RATIO
+
+10             264.0       0.0       0.0     127.9       0.0       0.0      0.00
+20             264.0       0.0       0.0     127.9       0.0       0.0      0.00
+30               0.0       0.0       0.0       0.0       0.0       0.0      0.00
+
+
+
+
+  0%|          | 0/19 [00:00<?, ?it/s]
+                                      
+
+  0%|          | 0/19 [00:00<?, ?it/s]
+Processing...:   0%|          | 0/19 [00:00<?, ?it/s]
+                                                     
+
+Processing...:   0%|          | 0/19 [00:00<?, ?it/s]
+                                                     
+
+Processing...:   0%|          | 0/19 [00:00<?, ?it/s]
+                                                     
+
+Processing...:   0%|          | 0/19 [00:00<?, ?it/s]
+                                                     
+
+Processing...:   0%|          | 0/19 [00:00<?, ?it/s]
+                                                     
+
+Processing...:   0%|          | 0/19 [00:00<?, ?it/s]
+                                                     
+
+Processing...:   0%|          | 0/19 [00:00<?, ?it/s]
+                                                     
+
+Processing...:   0%|          | 0/19 [00:00<?, ?it/s]
+                                                     
+
+Processing...:   0%|          | 0/19 [00:00<?, ?it/s]
+                                                     
+
+Processing...:   0%|          | 0/19 [00:00<?, ?it/s]
+                                                     
+
+Processing...:   0%|          | 0/19 [00:00<?, ?it/s]
+                                                     
+
+Processing...:   0%|          | 0/19 [00:00<?, ?it/s]
+                                                     
+
+Processing...:   0%|          | 0/19 [00:00<?, ?it/s]
+                                                     
+
+Processing...:   0%|          | 0/19 [00:00<?, ?it/s]
+                                                     
+
+Processing...:   0%|          | 0/19 [00:00<?, ?it/s]
+                                                     
+
+Processing...:   0%|          | 0/19 [00:00<?, ?it/s]
+                                                     
+
+Processing...:   0%|          | 0/19 [00:00<?, ?it/s]
+                                                     
+
+Processing...:   0%|          | 0/19 [00:00<?, ?it/s]
+                                                     
+
+Processing...:   0%|          | 0/19 [00:00<?, ?it/s]
+                                                     
+
+Processing...:   0%|          | 0/19 [00:00<?, ?it/s]
+Processing...:  89%|████████▉ | 17/19 [00:00<00:00, 120.82it/s]
+                                                               
+
+Processing...:  89%|████████▉ | 17/19 [00:00<00:00, 120.82it/s]
+                                                               
+
+Processing...:  89%|████████▉ | 17/19 [00:00<00:00, 120.82it/s]
+Done!:  89%|████████▉ | 17/19 [00:00<00:00, 120.82it/s]        
+Done!: 100%|██████████| 19/19 [00:00<00:00, 114.37it/s]

@@ -1,0 +1,1000 @@
+# Control loop register: the regulatory loops. Schema: `cheme schema loops`.
+# PROPOSED control intent, not approved for implementation; the review status comes from reviews/.
+# Trips are not loops: they go in control/cause-effect.yaml, which `interlocks` refers to.
+# Basic stage: one entry per controller drawn on P-01 to P-08. Setpoints ASSUMED (D-007 to
+# D-011); fail positions as drawn on the P&IDs, for the HAZOP to confirm.
+schema: cheme/loops/v1
+loops:
+- id: PIC-1110
+  title: Tank vapour header pressure, high split (BOG compressors, then the flare)
+  purpose: Hold the tank pressure by setting the BOG compressor load (PIC-7101) and, above its range, by venting
+    the header to the storage and loading flare through PV-1110.
+  section: BOG
+  cases:
+  - average
+  - loading
+  - holding
+  variable: pressure
+  measurement:
+  - tag: PIC-1110
+  controller: PIC-1110
+  action: direct
+  final_elements:
+  - tag: PV-1110
+    kind: valve
+    actuator: pneumatic
+    fail: closed
+  targets:
+  - kind: setpoint
+    value: 14
+    unit: kPa(g)
+    provenance: assumed
+    source: 'D-007: tank operating pressure 115 kPa(a) ~ 14 kPa(g), ASSUMED'
+  modes:
+  - manual
+  - auto
+  normal_mode: auto
+  alarms:
+  - tag: PIC-1110
+    condition: PAH
+    response: Check that the BOG compressors are loaded (PIC-7101, K-7101A/B/C running); reduce the loading rate
+      FIC-4101/4102 if the return vapour exceeds the machines; PV-1110 opens to the flare above the split.
+  interlocks:
+  - I-203
+  - I-303
+  rationale: 'One header pressure for both tanks: output 0-50 % raises the compressor load set point, 50-100 % opens
+    PV-1110 (split range), so the flare only takes what the compressors cannot. PV-1110 fails closed: the tank PSVs
+    and the high-high trips I-203 / I-303 remain.'
+- id: PIC-1111
+  title: Tank vapour header pressure, low split (make-up gas)
+  purpose: Hold the tanks above their vacuum set point by admitting make-up gas from the trains' fuel gas (FG-1001,
+    through FO-1117) through PV-1111 when the pressure falls (fast withdrawal at loading, barometric rise).
+  section: BOG
+  cases:
+  - average
+  - loading
+  - holding
+  variable: pressure
+  measurement:
+  - tag: PIC-1111
+  controller: PIC-1111
+  action: reverse
+  final_elements:
+  - tag: PV-1111
+    kind: valve
+    actuator: pneumatic
+    fail: closed
+  targets:
+  - kind: setpoint
+    value: 6
+    unit: kPa(g)
+    provenance: assumed
+    source: 'D-017, D-025: make-up below ~6 kPa(g), well above the vacuum relief at -0.3 kPa(g), ASSUMED'
+  modes:
+  - manual
+  - auto
+  normal_mode: auto
+  alarms:
+  - tag: PIC-1111
+    condition: PAL
+    response: Check the fuel gas supply pressure at FG-1001 (make-up source) and PV-1111; reduce the loading rate;
+      the low-low trips I-204 / I-304 stop the withdrawal.
+  interlocks:
+  - I-204
+  - I-304
+  rationale: Make-up from the trains' fuel gas, independent of the BOG compressors that I-204 / I-304 stop (D-025),
+    closes the vacuum gap without admitting air; FO-1117 limits the flow if PV-1111 fails open; PV-1111 fails closed
+    (no gas into a tank on a failure) and the low-low trips and the vacuum relief valves stay.
+- id: FIC-2111A
+  title: P-2101A minimum flow
+  purpose: Keep P-2101A above its minimum continuous flow by returning LNG to T-2101.
+  section: STORAGE
+  cases:
+  - average
+  - loading
+  - holding
+  variable: flow
+  measurement:
+  - tag: FIC-2111A
+  controller: FIC-2111A
+  action: reverse
+  final_elements:
+  - tag: FV-2111A
+    kind: valve
+    actuator: pneumatic
+    fail: open
+  targets:
+  - kind: setpoint
+    value: 900
+    unit: m3/h
+    provenance: assumed
+    source: 'D-011: ~30 % of the 3,000 m3/h rated flow, ASSUMED (vendor minimum)'
+  modes:
+  - manual
+  - auto
+  normal_mode: auto
+  alarms:
+  - tag: FIC-2111A
+    condition: FAL
+    response: Check FV-2111A is open; stop P-2101A if the flow cannot be restored.
+  interlocks:
+  - I-202
+  rationale: Each in-tank pump has its own minimum-flow return; FV fails open, so a failure protects the pump at
+    the cost of some recirculation heat.
+- id: FIC-2111B
+  title: P-2101B minimum flow
+  purpose: Keep P-2101B above its minimum continuous flow by returning LNG to T-2101.
+  section: STORAGE
+  cases:
+  - average
+  - loading
+  - holding
+  variable: flow
+  measurement:
+  - tag: FIC-2111B
+  controller: FIC-2111B
+  action: reverse
+  final_elements:
+  - tag: FV-2111B
+    kind: valve
+    actuator: pneumatic
+    fail: open
+  targets:
+  - kind: setpoint
+    value: 900
+    unit: m3/h
+    provenance: assumed
+    source: 'D-011: ~30 % of the 3,000 m3/h rated flow, ASSUMED (vendor minimum)'
+  modes:
+  - manual
+  - auto
+  normal_mode: auto
+  alarms:
+  - tag: FIC-2111B
+    condition: FAL
+    response: Check FV-2111B is open; stop P-2101B if the flow cannot be restored.
+  interlocks:
+  - I-202
+  rationale: Each in-tank pump has its own minimum-flow return; FV fails open, so a failure protects the pump at
+    the cost of some recirculation heat.
+- id: FIC-2111C
+  title: P-2101C minimum flow
+  purpose: Keep P-2101C above its minimum continuous flow by returning LNG to T-2101.
+  section: STORAGE
+  cases:
+  - average
+  - loading
+  - holding
+  variable: flow
+  measurement:
+  - tag: FIC-2111C
+  controller: FIC-2111C
+  action: reverse
+  final_elements:
+  - tag: FV-2111C
+    kind: valve
+    actuator: pneumatic
+    fail: open
+  targets:
+  - kind: setpoint
+    value: 900
+    unit: m3/h
+    provenance: assumed
+    source: 'D-011: ~30 % of the 3,000 m3/h rated flow, ASSUMED (vendor minimum)'
+  modes:
+  - manual
+  - auto
+  normal_mode: auto
+  alarms:
+  - tag: FIC-2111C
+    condition: FAL
+    response: Check FV-2111C is open; stop P-2101C if the flow cannot be restored.
+  interlocks:
+  - I-202
+  rationale: Each in-tank pump has its own minimum-flow return; FV fails open, so a failure protects the pump at
+    the cost of some recirculation heat.
+- id: FIC-2111D
+  title: P-2101D minimum flow
+  purpose: Keep P-2101D above its minimum continuous flow by returning LNG to T-2101.
+  section: STORAGE
+  cases:
+  - average
+  - loading
+  - holding
+  variable: flow
+  measurement:
+  - tag: FIC-2111D
+  controller: FIC-2111D
+  action: reverse
+  final_elements:
+  - tag: FV-2111D
+    kind: valve
+    actuator: pneumatic
+    fail: open
+  targets:
+  - kind: setpoint
+    value: 900
+    unit: m3/h
+    provenance: assumed
+    source: 'D-011: ~30 % of the 3,000 m3/h rated flow, ASSUMED (vendor minimum)'
+  modes:
+  - manual
+  - auto
+  normal_mode: auto
+  alarms:
+  - tag: FIC-2111D
+    condition: FAL
+    response: Check FV-2111D is open; stop P-2101D if the flow cannot be restored.
+  interlocks:
+  - I-202
+  rationale: Each in-tank pump has its own minimum-flow return; FV fails open, so a failure protects the pump at
+    the cost of some recirculation heat.
+- id: FIC-2112
+  title: P-2102 minimum flow
+  purpose: Keep the circulation pump P-2102 above its minimum flow.
+  section: STORAGE
+  cases:
+  - average
+  - loading
+  - holding
+  variable: flow
+  measurement:
+  - tag: FIC-2112
+  controller: FIC-2112
+  action: reverse
+  final_elements:
+  - tag: FV-2112
+    kind: valve
+    actuator: pneumatic
+    fail: open
+  targets:
+  - kind: setpoint
+    value: 150
+    unit: m3/h
+    provenance: assumed
+    source: 'D-011: ~30 % of the 500 m3/h rated flow, ASSUMED'
+  modes:
+  - manual
+  - auto
+  normal_mode: auto
+  alarms:
+  - tag: FIC-2112
+    condition: FAL
+    response: Check FV-2112; stop P-2102.
+  interlocks:
+  - I-202
+  rationale: As the loading pumps; fails open.
+- id: FIC-3111A
+  title: P-3101A minimum flow
+  purpose: Keep P-3101A above its minimum continuous flow by returning LNG to T-3101.
+  section: STORAGE
+  cases:
+  - average
+  - loading
+  - holding
+  variable: flow
+  measurement:
+  - tag: FIC-3111A
+  controller: FIC-3111A
+  action: reverse
+  final_elements:
+  - tag: FV-3111A
+    kind: valve
+    actuator: pneumatic
+    fail: open
+  targets:
+  - kind: setpoint
+    value: 900
+    unit: m3/h
+    provenance: assumed
+    source: 'D-011: ~30 % of the 3,000 m3/h rated flow, ASSUMED (vendor minimum)'
+  modes:
+  - manual
+  - auto
+  normal_mode: auto
+  alarms:
+  - tag: FIC-3111A
+    condition: FAL
+    response: Check FV-3111A is open; stop P-3101A if the flow cannot be restored.
+  interlocks:
+  - I-302
+  rationale: Each in-tank pump has its own minimum-flow return; FV fails open, so a failure protects the pump at
+    the cost of some recirculation heat.
+- id: FIC-3111B
+  title: P-3101B minimum flow
+  purpose: Keep P-3101B above its minimum continuous flow by returning LNG to T-3101.
+  section: STORAGE
+  cases:
+  - average
+  - loading
+  - holding
+  variable: flow
+  measurement:
+  - tag: FIC-3111B
+  controller: FIC-3111B
+  action: reverse
+  final_elements:
+  - tag: FV-3111B
+    kind: valve
+    actuator: pneumatic
+    fail: open
+  targets:
+  - kind: setpoint
+    value: 900
+    unit: m3/h
+    provenance: assumed
+    source: 'D-011: ~30 % of the 3,000 m3/h rated flow, ASSUMED (vendor minimum)'
+  modes:
+  - manual
+  - auto
+  normal_mode: auto
+  alarms:
+  - tag: FIC-3111B
+    condition: FAL
+    response: Check FV-3111B is open; stop P-3101B if the flow cannot be restored.
+  interlocks:
+  - I-302
+  rationale: Each in-tank pump has its own minimum-flow return; FV fails open, so a failure protects the pump at
+    the cost of some recirculation heat.
+- id: FIC-3111C
+  title: P-3101C minimum flow
+  purpose: Keep P-3101C above its minimum continuous flow by returning LNG to T-3101.
+  section: STORAGE
+  cases:
+  - average
+  - loading
+  - holding
+  variable: flow
+  measurement:
+  - tag: FIC-3111C
+  controller: FIC-3111C
+  action: reverse
+  final_elements:
+  - tag: FV-3111C
+    kind: valve
+    actuator: pneumatic
+    fail: open
+  targets:
+  - kind: setpoint
+    value: 900
+    unit: m3/h
+    provenance: assumed
+    source: 'D-011: ~30 % of the 3,000 m3/h rated flow, ASSUMED (vendor minimum)'
+  modes:
+  - manual
+  - auto
+  normal_mode: auto
+  alarms:
+  - tag: FIC-3111C
+    condition: FAL
+    response: Check FV-3111C is open; stop P-3101C if the flow cannot be restored.
+  interlocks:
+  - I-302
+  rationale: Each in-tank pump has its own minimum-flow return; FV fails open, so a failure protects the pump at
+    the cost of some recirculation heat.
+- id: FIC-3111D
+  title: P-3101D minimum flow
+  purpose: Keep P-3101D above its minimum continuous flow by returning LNG to T-3101.
+  section: STORAGE
+  cases:
+  - average
+  - loading
+  - holding
+  variable: flow
+  measurement:
+  - tag: FIC-3111D
+  controller: FIC-3111D
+  action: reverse
+  final_elements:
+  - tag: FV-3111D
+    kind: valve
+    actuator: pneumatic
+    fail: open
+  targets:
+  - kind: setpoint
+    value: 900
+    unit: m3/h
+    provenance: assumed
+    source: 'D-011: ~30 % of the 3,000 m3/h rated flow, ASSUMED (vendor minimum)'
+  modes:
+  - manual
+  - auto
+  normal_mode: auto
+  alarms:
+  - tag: FIC-3111D
+    condition: FAL
+    response: Check FV-3111D is open; stop P-3101D if the flow cannot be restored.
+  interlocks:
+  - I-302
+  rationale: Each in-tank pump has its own minimum-flow return; FV fails open, so a failure protects the pump at
+    the cost of some recirculation heat.
+- id: FIC-3112
+  title: P-3102 minimum flow
+  purpose: Keep the circulation pump P-3102 above its minimum flow.
+  section: STORAGE
+  cases:
+  - average
+  - loading
+  - holding
+  variable: flow
+  measurement:
+  - tag: FIC-3112
+  controller: FIC-3112
+  action: reverse
+  final_elements:
+  - tag: FV-3112
+    kind: valve
+    actuator: pneumatic
+    fail: open
+  targets:
+  - kind: setpoint
+    value: 150
+    unit: m3/h
+    provenance: assumed
+    source: 'D-011: ~30 % of the 500 m3/h rated flow, ASSUMED'
+  modes:
+  - manual
+  - auto
+  normal_mode: auto
+  alarms:
+  - tag: FIC-3112
+    condition: FAL
+    response: Check FV-3112; stop P-3102.
+  interlocks:
+  - I-302
+  rationale: As the loading pumps; fails open.
+- id: FIC-4101
+  title: Loading line A flow
+  purpose: Ramp the loading rate up and down to the carrier's cargo plan on loading line A (half of the up to 12,000
+    m3/h each).
+  section: TRANSFER
+  cases:
+  - average
+  - loading
+  variable: flow
+  measurement:
+  - tag: FIC-4101
+  controller: FIC-4101
+  action: reverse
+  final_elements:
+  - tag: FV-4101
+    kind: valve
+    actuator: pneumatic
+    fail: last
+  targets:
+  - kind: setpoint
+    value: 6000
+    unit: m3/h
+    provenance: assumed
+    source: 'D-008, D-011: 12,000 m3/h maximum loading rate (EA application 2014 §2) split over both lines'
+  modes:
+  - manual
+  - auto
+  normal_mode: auto
+  alarms:
+  - tag: FIC-4101
+    condition: FAH
+    response: Reduce the rate; check the number of loading pumps running against the cargo plan.
+  interlocks:
+  - I-501
+  - I-601
+  rationale: Butterfly control valve at the tank end; fails in its last position, so a failure neither surges the
+    line nor stops the carrier's cargo plan; the ESD valves XV-4101/4102 and the berth ESD stop it.
+  operator: Ramps up after the cooldown of the arms and the carrier's manifold (SEQ-LOAD), tops off at the end on
+    the carrier's request.
+- id: FIC-4102
+  title: Loading line B flow
+  purpose: Ramp the loading rate up and down to the carrier's cargo plan on loading line B (half of the up to 12,000
+    m3/h each).
+  section: TRANSFER
+  cases:
+  - average
+  - loading
+  variable: flow
+  measurement:
+  - tag: FIC-4102
+  controller: FIC-4102
+  action: reverse
+  final_elements:
+  - tag: FV-4102
+    kind: valve
+    actuator: pneumatic
+    fail: last
+  targets:
+  - kind: setpoint
+    value: 6000
+    unit: m3/h
+    provenance: assumed
+    source: 'D-008, D-011: 12,000 m3/h maximum loading rate (EA application 2014 §2) split over both lines'
+  modes:
+  - manual
+  - auto
+  normal_mode: auto
+  alarms:
+  - tag: FIC-4102
+    condition: FAH
+    response: Reduce the rate; check the number of loading pumps running against the cargo plan.
+  interlocks:
+  - I-501
+  - I-601
+  rationale: Butterfly control valve at the tank end; fails in its last position, so a failure neither surges the
+    line nor stops the carrier's cargo plan; the ESD valves XV-4101/4102 and the berth ESD stop it.
+  operator: Ramps up after the cooldown of the arms and the carrier's manifold (SEQ-LOAD), tops off at the end on
+    the carrier's request.
+- id: PIC-7101
+  title: BOG compressor suction pressure
+  purpose: Hold the suction header pressure by the inlet guide vanes of the running BOG compressors; set point from
+    PIC-1110.
+  section: BOG
+  cases:
+  - average
+  - loading
+  - holding
+  variable: pressure
+  measurement:
+  - tag: PIC-7101
+  controller: PIC-7101
+  action: direct
+  final_elements:
+  - tag: K-7101A
+    kind: drive
+    actuator: electric
+    fail: last
+  targets:
+  - kind: setpoint
+    value: 108
+    unit: kPa(a)
+    provenance: assumed
+    source: 'D-010: suction 108 kPa(a), ASSUMED'
+  modes:
+  - manual
+  - auto
+  normal_mode: auto
+  alarms:
+  - tag: PIC-7101
+    condition: PAH
+    response: 'Start the next compressor (holding: one, loading: two).'
+  interlocks:
+  - I-701
+  rationale: The guide vanes of each machine take the common output; the operator starts machines by case (holding
+    one, loading two, the third the spare).
+- id: TIC-7103
+  title: BOG temperature after the desuperheater
+  purpose: Cool the return vapour to -140 degC at the suction drum inlet with an LNG spray.
+  section: BOG
+  cases:
+  - average
+  - loading
+  - holding
+  variable: temperature
+  measurement:
+  - tag: TIC-7103
+  controller: TIC-7103
+  action: direct
+  final_elements:
+  - tag: TV-7103
+    kind: valve
+    actuator: pneumatic
+    fail: closed
+  targets:
+  - kind: setpoint
+    value: -140
+    unit: °C
+    provenance: assumed
+    source: 'D-010: compressor suction -140 degC, ASSUMED'
+  modes:
+  - manual
+  - auto
+  normal_mode: auto
+  alarms:
+  - tag: TIC-7103
+    condition: TAH
+    response: Check the spray supply LNG-4008 and that a circulation pump runs; warm suction raises the compressor
+      power.
+  interlocks:
+  - I-701
+  rationale: Spray rate on the vapour temperature; TV fails closed so that a failure cannot flood the drum (high-high
+    I-701 trips the machines).
+- id: LIC-7102
+  title: D-7101 level
+  purpose: Drain spray carry-over from the suction drum to the flare knock-out drum.
+  section: BOG
+  cases:
+  - average
+  - loading
+  - holding
+  variable: level
+  measurement:
+  - tag: LIC-7102
+  controller: LIC-7102
+  action: direct
+  final_elements:
+  - tag: LV-7102
+    kind: valve
+    actuator: pneumatic
+    fail: closed
+  targets:
+  - kind: setpoint
+    value: 20
+    unit: '%'
+    provenance: assumed
+    source: 'D-010: low level in a knock-out drum, ASSUMED'
+  modes:
+  - manual
+  - auto
+  normal_mode: auto
+  alarms:
+  - tag: LIC-7102
+    condition: LAH
+    response: Check LV-7102 and the spray rate TIC-7103.
+  interlocks:
+  - I-701
+  rationale: Normally dry; LV fails closed (no gas blow-by to D-8101), with the high-high trip as the protection.
+- id: UIC-7104A
+  title: K-7101A anti-surge
+  purpose: Keep K-7101A away from surge by recycling discharge gas to its suction.
+  section: BOG
+  cases:
+  - average
+  - loading
+  - holding
+  variable: flow
+  measurement:
+  - tag: UIC-7104A
+  controller: UIC-7104A
+  action: reverse
+  final_elements:
+  - tag: UV-7104A
+    kind: valve
+    actuator: pneumatic
+    fail: open
+  targets:
+  - kind: setpoint
+    value: 10
+    unit: '%'
+    provenance: assumed
+    source: 'D-010: surge control margin 10 %, ASSUMED (vendor)'
+  modes:
+  - manual
+  - auto
+  normal_mode: auto
+  alarms:
+  - tag: UIC-7104A
+    condition: FAL
+    response: Recycle opening; check the load of K-7101A.
+  interlocks:
+  - I-702
+  rationale: Vendor anti-surge controller; UV fails open (machine protection first).
+- id: UIC-7104B
+  title: K-7101B anti-surge
+  purpose: Keep K-7101B away from surge by recycling discharge gas to its suction.
+  section: BOG
+  cases:
+  - average
+  - loading
+  - holding
+  variable: flow
+  measurement:
+  - tag: UIC-7104B
+  controller: UIC-7104B
+  action: reverse
+  final_elements:
+  - tag: UV-7104B
+    kind: valve
+    actuator: pneumatic
+    fail: open
+  targets:
+  - kind: setpoint
+    value: 10
+    unit: '%'
+    provenance: assumed
+    source: 'D-010: surge control margin 10 %, ASSUMED (vendor)'
+  modes:
+  - manual
+  - auto
+  normal_mode: auto
+  alarms:
+  - tag: UIC-7104B
+    condition: FAL
+    response: Recycle opening; check the load of K-7101B.
+  rationale: Vendor anti-surge controller; UV fails open (machine protection first).
+- id: UIC-7104C
+  title: K-7101C anti-surge
+  purpose: Keep K-7101C away from surge by recycling discharge gas to its suction.
+  section: BOG
+  cases:
+  - average
+  - loading
+  - holding
+  variable: flow
+  measurement:
+  - tag: UIC-7104C
+  controller: UIC-7104C
+  action: reverse
+  final_elements:
+  - tag: UV-7104C
+    kind: valve
+    actuator: pneumatic
+    fail: open
+  targets:
+  - kind: setpoint
+    value: 10
+    unit: '%'
+    provenance: assumed
+    source: 'D-010: surge control margin 10 %, ASSUMED (vendor)'
+  modes:
+  - manual
+  - auto
+  normal_mode: auto
+  alarms:
+  - tag: UIC-7104C
+    condition: FAL
+    response: Recycle opening; check the load of K-7101C.
+  rationale: Vendor anti-surge controller; UV fails open (machine protection first).
+- id: LIC-5111
+  title: D-5101 jetty drain drum level (P-5101 start / stop)
+  purpose: Empty the Berth 2 jetty drain drum D-5101 with P-5101 into the berth header downstream of XV-5101, into
+    the cooldown or loading flow of the next transfer.
+  section: JETTY
+  cases:
+  - loading
+  variable: level
+  measurement:
+  - tag: LIC-5111
+  controller: LIC-5111
+  action: direct
+  final_elements:
+  - tag: P-5101
+    kind: drive
+    actuator: electric
+    fail: stop
+  targets:
+  - kind: high
+    unresolved: drum start level from the D-n101 datasheet (detail)
+  - kind: low
+    unresolved: drum stop level above the pump's NPSH required (vendor)
+  modes:
+  - manual
+  - auto
+  normal_mode: auto
+  transitions:
+  - from: manual
+    to: auto
+    by: operator
+    condition:
+      all:
+      - tag: ZSC-5101
+        state: not closed
+      - text: cooldown or loading flow established through XV-5101 (FIC-4101 / FIC-4102 at its rate)
+  - from: auto
+    to: manual
+    by: automatic
+    condition:
+      any:
+      - tag: ZSC-5101
+        state: closed
+      - interlock: I-501
+        state: tripped
+    notes: P-5101 stopped with it
+  alarms:
+  - tag: LIC-5111
+    condition: LAH
+    response: 'Drum filling with no transfer to empty it into: hold the header drain (XV-5161 closed); the independent
+      LZT-5112 closes XV-5161 at high-high (I-506).'
+  interlocks:
+  - I-501
+  - I-506
+  rationale: 'Since D-036 P-5101 returns into the berth header downstream of XV-5101, so it can run only into a
+    flow that leaves the platform: the loop goes to auto only with XV-5101 open and the flow established (permissive
+    below), and P-5101 is stopped by ESD-1 (I-501, D-039), so it never dead-heads against the closed header.'
+  operator: 'SEQ-LOAD S3: put LIC-5111 in auto once the cooldown flow runs through XV-5101; D-5101 below its low
+    level before S4.'
+- id: LIC-6111
+  title: D-6101 jetty drain drum level (P-6101 start / stop)
+  purpose: Empty the Berth 1 jetty drain drum D-6101 with P-6101 into the berth header downstream of XV-6101, into
+    the cooldown or loading flow of the next transfer.
+  section: JETTY
+  cases:
+  - loading
+  variable: level
+  measurement:
+  - tag: LIC-6111
+  controller: LIC-6111
+  action: direct
+  final_elements:
+  - tag: P-6101
+    kind: drive
+    actuator: electric
+    fail: stop
+  targets:
+  - kind: high
+    unresolved: drum start level from the D-n101 datasheet (detail)
+  - kind: low
+    unresolved: drum stop level above the pump's NPSH required (vendor)
+  modes:
+  - manual
+  - auto
+  normal_mode: auto
+  transitions:
+  - from: manual
+    to: auto
+    by: operator
+    condition:
+      all:
+      - tag: ZSC-6101
+        state: not closed
+      - text: cooldown or loading flow established through XV-6101 (FIC-4101 / FIC-4102 at its rate)
+  - from: auto
+    to: manual
+    by: automatic
+    condition:
+      any:
+      - tag: ZSC-6101
+        state: closed
+      - interlock: I-601
+        state: tripped
+    notes: P-6101 stopped with it
+  alarms:
+  - tag: LIC-6111
+    condition: LAH
+    response: 'Drum filling with no transfer to empty it into: hold the header drain (XV-6161 closed); the independent
+      LZT-6112 closes XV-6161 at high-high (I-606).'
+  interlocks:
+  - I-601
+  - I-606
+  rationale: 'Since D-036 P-6101 returns into the berth header downstream of XV-6101, so it can run only into a
+    flow that leaves the platform: the loop goes to auto only with XV-6101 open and the flow established (permissive
+    below), and P-6101 is stopped by ESD-1 (I-601, D-039), so it never dead-heads against the closed header.'
+  operator: 'SEQ-LOAD S3: put LIC-6111 in auto once the cooldown flow runs through XV-6101; D-6101 below its low
+    level before S4.'
+- id: LIC-8101
+  title: D-8101 flare knock-out drum level (P-8101A/B duty start / stop)
+  purpose: Empty the flare knock-out drum D-8101 to the liquid burner with the duty pump P-8101A/B on a level band.
+  section: BOG
+  cases:
+  - average
+  - loading
+  - holding
+  variable: level
+  measurement:
+  - tag: LIC-8101
+  controller: LIC-8101
+  action: direct
+  final_elements:
+  - tag: P-8101A
+    kind: drive
+    actuator: electric
+    fail: stop
+  targets:
+  - kind: high
+    unresolved: start level from the D-8101 datasheet (detail)
+  - kind: low
+    unresolved: stop level above the pumps' NPSH required (vendor)
+  modes:
+  - manual
+  - auto
+  normal_mode: auto
+  alarms:
+  - tag: LIC-8101
+    condition: LAH
+    response: Check the duty pump and the liquid burner line-up; the independent LZT-8105 starts both pumps at high-high
+      (I-802).
+  interlocks:
+  - I-802
+  - I-803
+  rationale: 'The duty pump is started and stopped on the level band through HS-8101A; the final element is the
+    duty pump, P-8101A shown: when P-8101B is selected as the duty pump the same output acts on it through HS-8101B
+    instead (a duty selection, not a split range, so one element). I-802 (high-high, both pumps) and I-803 (low-low,
+    both stopped, priority) on the independent LZT-8105 are the protection (D-026.14).'
+  operator: Select the duty pump at HS-8101A; the standby takes over through I-802 at high-high.
+- id: LC-8103
+  title: T-8101 pocket level (P-8102 start / stop, speed)
+  purpose: 'Keep the tank-area sump T-8101 dry: take rainwater out of its floor pocket with the submersible P-8102
+    to the oily water system.'
+  section: STORAGE
+  cases:
+  - average
+  - loading
+  - holding
+  variable: level
+  measurement:
+  - tag: LI-8103
+  controller: null
+  action: direct
+  final_elements:
+  - tag: P-8102
+    kind: drive
+    actuator: electric
+    fail: stop
+  targets:
+  - kind: high
+    value: 0.9
+    unit: m
+    provenance: assumed
+    source: 'D-039: levels above the pocket floor; the stop keeps the ~0.5 m submergence of the submersible pump
+      (vendor), ASSUMED'
+  - kind: low
+    value: 0.6
+    unit: m
+    provenance: assumed
+    source: 'D-039: levels above the pocket floor; the stop keeps the ~0.5 m submergence of the submersible pump
+      (vendor), ASSUMED'
+  modes:
+  - manual
+  - auto
+  normal_mode: auto
+  alarms:
+  - tag: LZT-8113
+    condition: LAH
+    response: 'Water on the T-8101 floor: restore P-8102 (from road R13) or lower the portable spare pump; a transfer
+      hold (SEQ-LOAD S0 / S4); I-809 at high-high.'
+  - tag: LZT-8113
+    condition: deviation
+    response: 'LI-8103 and LZT-8113 disagree: check both radars; the alarms stay on LZT-8113.'
+  interlocks:
+  - I-801
+  - I-809
+  - I-810
+  rationale: 'Start and stop of P-8102 by LI-8103 through HS-8103 (signal line on P-08), no controller bubble: the
+    DCS level band of LI-8103, the speed following the level between them through the VSD in MCC-1 (round-10 design
+    check, D-039.9; as LC-8106). Minimum speed ~85 % (ASSUMED), where P-8102 still delivers ~20 m3/h against its
+    ~38 m fixed head (27.8 m static plus ~10.2 m at the oily water battery limit; no flow below ~80 %, D-039.9 (j)):
+    above that inflow it runs on, below it it cycles at most ~9 times an hour (worst at ~9 m3/h of inflow, refill
+    (0.675 - 0.23) / q plus run 0.675 / (20 - q) h with the riser''s 0.23 m3 drain-back), each a VSD ramp; on/off
+    direct-on-line over the 0.30 m band it was ~22 starts an hour at the ~20 m3/h design rain (worst ~22.6 at ~22
+    m3/h), against a vendor limit taken as 15 evenly spaced starts an hour for a submersible motor of this size
+    (ASSUMED, vendor to confirm). The alarms and trips are on the independent LZT-8113 (I-809, I-810), the LNG lockout
+    on TSL-8102 / TSL-8120 / AT-8124 (I-801), so the control transmitter is not a safeguard (review 2026-11-05-basic-design-9
+    #1, #4, D-039).'
+  operator: After an I-801 or I-810 trip P-8102 restarts only after the reset by hand (pit confirmed free of LNG).
+- id: LC-8106
+  title: T-8102 pocket level (P-8103 start / stop, speed)
+  purpose: 'Keep the jetty sump T-8102 dry: take rainwater out of its floor pocket with the line-shaft P-8103 to
+    the jetty drain.'
+  section: JETTY
+  cases:
+  - loading
+  - holding
+  variable: level
+  measurement:
+  - tag: LZT-8106
+  controller: null
+  action: direct
+  final_elements:
+  - tag: P-8103
+    kind: drive
+    actuator: electric
+    fail: stop
+  targets:
+  - kind: high
+    value: 0.35
+    unit: m
+    provenance: assumed
+    source: 'D-037.16: levels above the pocket floor; the stop is the bowl''s submergence (vendor), ASSUMED'
+  - kind: low
+    value: 0.1
+    unit: m
+    provenance: assumed
+    source: 'D-037.16: levels above the pocket floor; the stop is the bowl''s submergence (vendor), ASSUMED'
+  modes:
+  - manual
+  - auto
+  normal_mode: auto
+  alarms:
+  - tag: LZT-8119
+    condition: LAH
+    response: 'Water on the T-8102 floor: a transfer hold (SEQ-LOAD S0 / S4), P-8103 restored from the control room;
+      I-805 at high-high.'
+  - tag: LZT-8119
+    condition: deviation
+    response: 'LZT-8106 and LZT-8119 disagree: check both guided-wave radars; the hold and the trip stay on LZT-8119.'
+  interlocks:
+  - I-805
+  - I-806
+  - I-807
+  - I-808
+  rationale: 'Start and stop by C&E I-806 / I-807 on LZT-8106 (BPCS functions recorded in the C&E), the speed following
+    the level between them (VSD). LZT-8106 is the control transmitter alone since D-039: the hold and I-805 are
+    on LZT-8119, the LNG lockout on TSL-8104 / TSL-8118 (I-808), so the control is not a safeguard (review 2026-11-05-basic-design-9
+    #4, #7).'
+  operator: After an I-808 lockout P-8103 restarts only after the reset by hand (sump confirmed free of LNG).

@@ -1,0 +1,284 @@
+{
+  "generated_at": "2026-11-24T20:39:06.805739+00:00",
+  "plant": "LNG export marine terminal (lng-terminal-1, 2 x 225,000 m3, 28 MTPA)",
+  "site": "Kitimat, BC (reference site)",
+  "level": "BED 方案级可用：用于方案比选与下一阶段设计输入，不用于施工采购许可或安全决策",
+  "upstream": "ChemE-as-Code/process-library processes:lng-terminal-1",
+  "artifacts": [
+    {
+      "path": "DESIGN.md",
+      "bytes": 336875,
+      "sha256_16": "cb1ebe6944307ae6"
+    },
+    {
+      "path": "dexpi/dexpi-check.json",
+      "bytes": 1715,
+      "sha256_16": "a46cd557ef86e3e4"
+    },
+    {
+      "path": "dexpi/dexpi-check.md",
+      "bytes": 662,
+      "sha256_16": "7e6f299e6301eefa"
+    },
+    {
+      "path": "dwsim/stream-table.csv",
+      "bytes": 3308,
+      "sha256_16": "a6137ad52b134beb"
+    },
+    {
+      "path": "dwsim/terminal-summary.json",
+      "bytes": 4430,
+      "sha256_16": "9033ba08edc56d82"
+    },
+    {
+      "path": "dwsim/terminal-summary.md",
+      "bytes": 2572,
+      "sha256_16": "2eed634460eb9de6"
+    },
+    {
+      "path": "hazop/H-01-full-report.html",
+      "bytes": 92911,
+      "sha256_16": "1fc6cb028a1fc809"
+    },
+    {
+      "path": "hazop/H-01-full-report.md",
+      "bytes": 84631,
+      "sha256_16": "856a4d48974521e9"
+    },
+    {
+      "path": "hazop/H-02-full-report.html",
+      "bytes": 177957,
+      "sha256_16": "48524bbea7efb961"
+    },
+    {
+      "path": "hazop/H-02-full-report.md",
+      "bytes": 167384,
+      "sha256_16": "dcb5563baebc9545"
+    },
+    {
+      "path": "hazop/H-03-full-report.html",
+      "bytes": 193226,
+      "sha256_16": "1e64a535dfe107ac"
+    },
+    {
+      "path": "hazop/H-03-full-report.md",
+      "bytes": 180248,
+      "sha256_16": "317561968fdb4051"
+    },
+    {
+      "path": "hazop/H-04-full-report.html",
+      "bytes": 83998,
+      "sha256_16": "e9a0ba6f3eaf138a"
+    },
+    {
+      "path": "hazop/H-04-full-report.md",
+      "bytes": 75889,
+      "sha256_16": "9646d5aecf0ae2f6"
+    },
+    {
+      "path": "hazop/H-05-full-report.html",
+      "bytes": 179235,
+      "sha256_16": "b5da094067a30807"
+    },
+    {
+      "path": "hazop/H-05-full-report.md",
+      "bytes": 168444,
+      "sha256_16": "6f44bb7055d4678e"
+    },
+    {
+      "path": "hazop/hazop-draft.md",
+      "bytes": 9983,
+      "sha256_16": "6e0d790032679427"
+    },
+    {
+      "path": "hazop/hazop-worksheet.csv",
+      "bytes": 22106,
+      "sha256_16": "45a6badde9b2b5a7"
+    },
+    {
+      "path": "lca/cheme-lca-inventory.csv",
+      "bytes": 1216,
+      "sha256_16": "6d846aa2049448c3"
+    },
+    {
+      "path": "lca/cheme-lca-results.csv",
+      "bytes": 154,
+      "sha256_16": "97e72778ff76ec4e"
+    },
+    {
+      "path": "lca/cheme-lca-results.md",
+      "bytes": 3915,
+      "sha256_16": "38b3da4c66bd712d"
+    },
+    {
+      "path": "MANIFEST.json",
+      "bytes": 6101,
+      "sha256_16": "47e54aff235d6cbc"
+    },
+    {
+      "path": "MANIFEST.md",
+      "bytes": 3169,
+      "sha256_16": "001772025ed1616b"
+    },
+    {
+      "path": "pid/P-01.svg",
+      "bytes": 135976,
+      "sha256_16": "1ac0f40632fb403c"
+    },
+    {
+      "path": "pid/P-02.svg",
+      "bytes": 151497,
+      "sha256_16": "5a77333bcf45f2a1"
+    },
+    {
+      "path": "pid/P-03.svg",
+      "bytes": 153131,
+      "sha256_16": "b825dd0eee5e716f"
+    },
+    {
+      "path": "pid/P-04.svg",
+      "bytes": 171238,
+      "sha256_16": "dc1cb50824e49d69"
+    },
+    {
+      "path": "pid/P-05.svg",
+      "bytes": 188177,
+      "sha256_16": "5c3f050160d7c7e1"
+    },
+    {
+      "path": "pid/P-06.svg",
+      "bytes": 188177,
+      "sha256_16": "56e859f9735faaa7"
+    },
+    {
+      "path": "pid/P-07.svg",
+      "bytes": 141941,
+      "sha256_16": "04bd723958a42366"
+    },
+    {
+      "path": "pid/P-08.svg",
+      "bytes": 132691,
+      "sha256_16": "a7b5dfea9991cbed"
+    },
+    {
+      "path": "plant.yaml",
+      "bytes": 3225,
+      "sha256_16": "3e366f5ef486f535"
+    },
+    {
+      "path": "psi/cases/FL-8001.inp",
+      "bytes": 765,
+      "sha256_16": "039f8f58e7bec86f"
+    },
+    {
+      "path": "psi/cases/FL-8001.out",
+      "bytes": 4902,
+      "sha256_16": "8c3dfcb20e15bda0"
+    },
+    {
+      "path": "psi/cases/FL-8002.inp",
+      "bytes": 764,
+      "sha256_16": "ea784c955489da52"
+    },
+    {
+      "path": "psi/cases/FL-8002.out",
+      "bytes": 4902,
+      "sha256_16": "9143010d3b0460c3"
+    },
+    {
+      "path": "psi/cases/LNG-1001.inp",
+      "bytes": 767,
+      "sha256_16": "106930fd594b5134"
+    },
+    {
+      "path": "psi/cases/LNG-1001.out",
+      "bytes": 4903,
+      "sha256_16": "692c22b64714957e"
+    },
+    {
+      "path": "psi/cases/LNG-1002.inp",
+      "bytes": 766,
+      "sha256_16": "4d4c21ebacae2732"
+    },
+    {
+      "path": "psi/cases/LNG-1002.out",
+      "bytes": 4903,
+      "sha256_16": "2c57fd3e17f43a75"
+    },
+    {
+      "path": "psi/cases/LNG-1003.inp",
+      "bytes": 764,
+      "sha256_16": "2a94e5d7616acf8e"
+    },
+    {
+      "path": "psi/cases/LNG-1003.out",
+      "bytes": 4903,
+      "sha256_16": "f7919c7096dd34df"
+    },
+    {
+      "path": "psi/cases/LNG-1004.inp",
+      "bytes": 764,
+      "sha256_16": "e2858125434078b0"
+    },
+    {
+      "path": "psi/cases/LNG-1004.out",
+      "bytes": 4903,
+      "sha256_16": "3e8d77d71ac78ff8"
+    },
+    {
+      "path": "psi/cases/LNG-2001.inp",
+      "bytes": 767,
+      "sha256_16": "14e6e47dd67f03ba"
+    },
+    {
+      "path": "psi/cases/LNG-2001.out",
+      "bytes": 4903,
+      "sha256_16": "7bb9d72582d14200"
+    },
+    {
+      "path": "psi/cases/LNG-3001.inp",
+      "bytes": 767,
+      "sha256_16": "4dcab0ab6bd3f0e5"
+    },
+    {
+      "path": "psi/cases/LNG-3001.out",
+      "bytes": 4903,
+      "sha256_16": "c658a7652d80e6d0"
+    },
+    {
+      "path": "psi/cases/LNG-4006.inp",
+      "bytes": 764,
+      "sha256_16": "c4ce2683bdbc4080"
+    },
+    {
+      "path": "psi/cases/LNG-4006.out",
+      "bytes": 4903,
+      "sha256_16": "1ab3ee9c80ea59dc"
+    },
+    {
+      "path": "psi/cases/LNG-4010.inp",
+      "bytes": 764,
+      "sha256_16": "2e6b3336f32c7158"
+    },
+    {
+      "path": "psi/cases/LNG-4010.out",
+      "bytes": 4903,
+      "sha256_16": "fcbcd768bfce711c"
+    },
+    {
+      "path": "psi/stress-report.md",
+      "bytes": 1947,
+      "sha256_16": "a54e5de3f5f49ac7"
+    },
+    {
+      "path": "psi/stress-results.json",
+      "bytes": 4565,
+      "sha256_16": "91f7356d20bbc838"
+    },
+    {
+      "path": "README.md",
+      "bytes": 6346,
+      "sha256_16": "aae0c83f89054682"
+    }
+  ]
+}

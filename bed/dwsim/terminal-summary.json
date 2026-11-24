@@ -1,0 +1,201 @@
+{
+  "plant": "LNG export marine terminal (2 x 225,000 m3, 2 berths, 28 MTPA)",
+  "capacity": "28 MTPA",
+  "cases": [
+    "average",
+    "loading",
+    "holding"
+  ],
+  "equipment_count": 36,
+  "lines_count": 151,
+  "streams_count": 16,
+  "streams": [
+    {
+      "id": "S1",
+      "title": "LNG rundown from the liquefaction trains",
+      "from": "",
+      "to": "",
+      "pressure_kPa": "?",
+      "temperature_K": "?",
+      "flow_kgh": "?",
+      "composition": ""
+    },
+    {
+      "id": "S13",
+      "title": "Tank liquid to the in-tank pumps",
+      "from": "",
+      "to": "",
+      "pressure_kPa": "?",
+      "temperature_K": "?",
+      "flow_kgh": "?",
+      "composition": ""
+    },
+    {
+      "id": "S2",
+      "title": "Pumped LNG to the trestle loading lines",
+      "from": "",
+      "to": "",
+      "pressure_kPa": "?",
+      "temperature_K": "?",
+      "flow_kgh": "?",
+      "composition": ""
+    },
+    {
+      "id": "S7",
+      "title": "LNG spray to the BOG desuperheater",
+      "from": "",
+      "to": "",
+      "pressure_kPa": "?",
+      "temperature_K": "?",
+      "flow_kgh": "?",
+      "composition": ""
+    },
+    {
+      "id": "S3",
+      "title": "LNG at the jetty (loading berth)",
+      "from": "",
+      "to": "",
+      "pressure_kPa": "?",
+      "temperature_K": "?",
+      "flow_kgh": "?",
+      "composition": ""
+    },
+    {
+      "id": "S10",
+      "title": "Circulation return to the tanks (holding)",
+      "from": "",
+      "to": "",
+      "pressure_kPa": "?",
+      "temperature_K": "?",
+      "flow_kgh": "?",
+      "composition": ""
+    },
+    {
+      "id": "S4",
+      "title": "LNG to the carrier",
+      "from": "",
+      "to": "",
+      "pressure_kPa": "?",
+      "temperature_K": "?",
+      "flow_kgh": "?",
+      "composition": ""
+    },
+    {
+      "id": "S5",
+      "title": "Carrier return vapour, BOG design envelope",
+      "from": "",
+      "to": "",
+      "pressure_kPa": "?",
+      "temperature_K": "?",
+      "flow_kgh": "?",
+      "composition": ""
+    },
+    {
+      "id": "S6",
+      "title": "Vapour return over the trestle",
+      "from": "",
+      "to": "",
+      "pressure_kPa": "?",
+      "temperature_K": "?",
+      "flow_kgh": "?",
+      "composition": ""
+    },
+    {
+      "id": "S8",
+      "title": "Tank boil-off and displaced vapour",
+      "from": "",
+      "to": "",
+      "pressure_kPa": "?",
+      "temperature_K": "?",
+      "flow_kgh": "?",
+      "composition": ""
+    },
+    {
+      "id": "S14",
+      "title": "BOG after the desuperheater to the compressors",
+      "from": "",
+      "to": "",
+      "pressure_kPa": "?",
+      "temperature_K": "?",
+      "flow_kgh": "?",
+      "composition": ""
+    },
+    {
+      "id": "S9",
+      "title": "Compressed BOG to the trains",
+      "from": "",
+      "to": "",
+      "pressure_kPa": "?",
+      "temperature_K": "?",
+      "flow_kgh": "?",
+      "composition": ""
+    },
+    {
+      "id": "S11",
+      "title": "Tank inventory drawn down (loading)",
+      "from": "",
+      "to": "",
+      "pressure_kPa": "?",
+      "temperature_K": "?",
+      "flow_kgh": "?",
+      "composition": ""
+    },
+    {
+      "id": "S12",
+      "title": "Tank inventory filled up (holding)",
+      "from": "",
+      "to": "",
+      "pressure_kPa": "?",
+      "temperature_K": "?",
+      "flow_kgh": "?",
+      "composition": ""
+    },
+    {
+      "id": "E1",
+      "title": "In-tank pump motors (electric)",
+      "from": "",
+      "to": "",
+      "pressure_kPa": "?",
+      "temperature_K": "?",
+      "flow_kgh": "?",
+      "composition": ""
+    },
+    {
+      "id": "E2",
+      "title": "BOG compressor motors (electric)",
+      "from": "",
+      "to": "",
+      "pressure_kPa": "?",
+      "temperature_K": "?",
+      "flow_kgh": "?",
+      "composition": ""
+    }
+  ],
+  "lines_by_fluid": {
+    "LNG": 78,
+    "Boil-off gas": 46,
+    "Fuel gas": 3,
+    "Flare gas": 7,
+    "Air": 6,
+    "Nitrogen": 8,
+    "Rainwater": 2,
+    "Instrument air": 1
+  },
+  "lines_by_dn": {
+    "DN900": 6,
+    "DN500": 6,
+    "DN750": 4,
+    "DN600": 2,
+    "DN25": 36,
+    "DN150": 13,
+    "DN800": 8,
+    "DN450": 6,
+    "DN250": 19,
+    "DN100": 9,
+    "DN80": 11,
+    "DN300": 5,
+    "DN400": 16,
+    "DN50": 9,
+    "DN200": 1
+  }
+}

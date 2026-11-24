@@ -1,0 +1,2698 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420.0" height="297.0" viewBox="0.0 0.0 420.0 297.0">
+  <rect x="0.0" y="0.0" width="420.0" height="297.0" fill="#f0f0f0"/>
+  <metadata>DEXPI Diagram: P-05 - Generated with pyDEXPI 2.1.0 - https://github.com/process-intelligence-research/pyDEXPI</metadata>
+  <g id="diagram-P-05" class="diagram">
+    <g class="border" id="PlantModel1_Drawing1_Groups1">
+      <polyline points="1.0,296.0 419.0,296.0 419.0,1.0 1.0,1.0 1.0,296.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.3" vector-effect="non-scaling-stroke"/>
+      <polyline points="4.0,293.0 416.0,293.0 416.0,4.0 4.0,4.0 4.0,293.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.6" vector-effect="non-scaling-stroke"/>
+      <text x="21.166666667" y="1.940499999999986" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.85" fill="rgb(0,0,0)">1</text>
+      <text x="21.166666667" y="294.0905" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.85" fill="rgb(0,0,0)">1</text>
+      <polyline points="38.333333333,293.0 38.333333333,296.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.3" vector-effect="non-scaling-stroke"/>
+      <polyline points="38.333333333,4.0 38.333333333,1.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.3" vector-effect="non-scaling-stroke"/>
+      <text x="55.5" y="1.940499999999986" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.85" fill="rgb(0,0,0)">2</text>
+      <text x="55.5" y="294.0905" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.85" fill="rgb(0,0,0)">2</text>
+      <polyline points="72.666666667,293.0 72.666666667,296.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.3" vector-effect="non-scaling-stroke"/>
+      <polyline points="72.666666667,4.0 72.666666667,1.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.3" vector-effect="non-scaling-stroke"/>
+      <text x="89.833333333" y="1.940499999999986" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.85" fill="rgb(0,0,0)">3</text>
+      <text x="89.833333333" y="294.0905" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.85" fill="rgb(0,0,0)">3</text>
+      <polyline points="107.0,293.0 107.0,296.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.3" vector-effect="non-scaling-stroke"/>
+      <polyline points="107.0,4.0 107.0,1.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.3" vector-effect="non-scaling-stroke"/>
+      <text x="124.166666667" y="1.940499999999986" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.85" fill="rgb(0,0,0)">4</text>
+      <text x="124.166666667" y="294.0905" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.85" fill="rgb(0,0,0)">4</text>
+      <polyline points="141.333333333,293.0 141.333333333,296.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.3" vector-effect="non-scaling-stroke"/>
+      <polyline points="141.333333333,4.0 141.333333333,1.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.3" vector-effect="non-scaling-stroke"/>
+      <text x="158.5" y="1.940499999999986" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.85" fill="rgb(0,0,0)">5</text>
+      <text x="158.5" y="294.0905" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.85" fill="rgb(0,0,0)">5</text>
+      <polyline points="175.666666667,293.0 175.666666667,296.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.3" vector-effect="non-scaling-stroke"/>
+      <polyline points="175.666666667,4.0 175.666666667,1.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.3" vector-effect="non-scaling-stroke"/>
+      <text x="192.833333333" y="1.940499999999986" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.85" fill="rgb(0,0,0)">6</text>
+      <text x="192.833333333" y="294.0905" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.85" fill="rgb(0,0,0)">6</text>
+      <polyline points="210.0,293.0 210.0,296.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.3" vector-effect="non-scaling-stroke"/>
+      <polyline points="210.0,4.0 210.0,1.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.3" vector-effect="non-scaling-stroke"/>
+      <text x="227.166666667" y="1.940499999999986" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.85" fill="rgb(0,0,0)">7</text>
+      <text x="227.166666667" y="294.0905" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.85" fill="rgb(0,0,0)">7</text>
+      <polyline points="244.333333333,293.0 244.333333333,296.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.3" vector-effect="non-scaling-stroke"/>
+      <polyline points="244.333333333,4.0 244.333333333,1.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.3" vector-effect="non-scaling-stroke"/>
+      <text x="261.5" y="1.940499999999986" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.85" fill="rgb(0,0,0)">8</text>
+      <text x="261.5" y="294.0905" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.85" fill="rgb(0,0,0)">8</text>
+      <polyline points="278.666666667,293.0 278.666666667,296.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.3" vector-effect="non-scaling-stroke"/>
+      <polyline points="278.666666667,4.0 278.666666667,1.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.3" vector-effect="non-scaling-stroke"/>
+      <text x="295.833333333" y="1.940499999999986" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.85" fill="rgb(0,0,0)">9</text>
+      <text x="295.833333333" y="294.0905" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.85" fill="rgb(0,0,0)">9</text>
+      <polyline points="313.0,293.0 313.0,296.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.3" vector-effect="non-scaling-stroke"/>
+      <polyline points="313.0,4.0 313.0,1.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.3" vector-effect="non-scaling-stroke"/>
+      <text x="330.166666667" y="1.940499999999986" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.85" fill="rgb(0,0,0)">10</text>
+      <text x="330.166666667" y="294.0905" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.85" fill="rgb(0,0,0)">10</text>
+      <polyline points="347.333333333,293.0 347.333333333,296.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.3" vector-effect="non-scaling-stroke"/>
+      <polyline points="347.333333333,4.0 347.333333333,1.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.3" vector-effect="non-scaling-stroke"/>
+      <text x="364.5" y="1.940499999999986" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.85" fill="rgb(0,0,0)">11</text>
+      <text x="364.5" y="294.0905" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.85" fill="rgb(0,0,0)">11</text>
+      <polyline points="381.666666667,293.0 381.666666667,296.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.3" vector-effect="non-scaling-stroke"/>
+      <polyline points="381.666666667,4.0 381.666666667,1.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.3" vector-effect="non-scaling-stroke"/>
+      <text x="398.833333333" y="1.940499999999986" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.85" fill="rgb(0,0,0)">12</text>
+      <text x="398.833333333" y="294.0905" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.85" fill="rgb(0,0,0)">12</text>
+      <polyline points="208.5,296.0 210.0,293.0 211.5,296.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.3" vector-effect="non-scaling-stroke"/>
+      <polyline points="208.5,1.0 210.0,4.0 211.5,1.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.3" vector-effect="non-scaling-stroke"/>
+      <text x="2.425" y="274.453" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.85" fill="rgb(0,0,0)">H</text>
+      <text x="417.575" y="274.453" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.85" fill="rgb(0,0,0)">H</text>
+      <polyline points="1.0,256.875 4.0,256.875" fill="none" stroke="rgb(0,0,0)" stroke-width="0.3" vector-effect="non-scaling-stroke"/>
+      <polyline points="416.0,256.875 419.0,256.875" fill="none" stroke="rgb(0,0,0)" stroke-width="0.3" vector-effect="non-scaling-stroke"/>
+      <text x="2.425" y="238.328" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.85" fill="rgb(0,0,0)">G</text>
+      <text x="417.575" y="238.328" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.85" fill="rgb(0,0,0)">G</text>
+      <polyline points="1.0,220.75 4.0,220.75" fill="none" stroke="rgb(0,0,0)" stroke-width="0.3" vector-effect="non-scaling-stroke"/>
+      <polyline points="416.0,220.75 419.0,220.75" fill="none" stroke="rgb(0,0,0)" stroke-width="0.3" vector-effect="non-scaling-stroke"/>
+      <text x="2.425" y="202.203" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.85" fill="rgb(0,0,0)">F</text>
+      <text x="417.575" y="202.203" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.85" fill="rgb(0,0,0)">F</text>
+      <polyline points="1.0,184.625 4.0,184.625" fill="none" stroke="rgb(0,0,0)" stroke-width="0.3" vector-effect="non-scaling-stroke"/>
+      <polyline points="416.0,184.625 419.0,184.625" fill="none" stroke="rgb(0,0,0)" stroke-width="0.3" vector-effect="non-scaling-stroke"/>
+      <text x="2.425" y="166.078" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.85" fill="rgb(0,0,0)">E</text>
+      <text x="417.575" y="166.078" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.85" fill="rgb(0,0,0)">E</text>
+      <polyline points="1.0,148.5 4.0,148.5" fill="none" stroke="rgb(0,0,0)" stroke-width="0.3" vector-effect="non-scaling-stroke"/>
+      <polyline points="416.0,148.5 419.0,148.5" fill="none" stroke="rgb(0,0,0)" stroke-width="0.3" vector-effect="non-scaling-stroke"/>
+      <text x="2.425" y="129.953" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.85" fill="rgb(0,0,0)">D</text>
+      <text x="417.575" y="129.953" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.85" fill="rgb(0,0,0)">D</text>
+      <polyline points="1.0,112.375 4.0,112.375" fill="none" stroke="rgb(0,0,0)" stroke-width="0.3" vector-effect="non-scaling-stroke"/>
+      <polyline points="416.0,112.375 419.0,112.375" fill="none" stroke="rgb(0,0,0)" stroke-width="0.3" vector-effect="non-scaling-stroke"/>
+      <text x="2.425" y="93.828" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.85" fill="rgb(0,0,0)">C</text>
+      <text x="417.575" y="93.828" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.85" fill="rgb(0,0,0)">C</text>
+      <polyline points="1.0,76.25 4.0,76.25" fill="none" stroke="rgb(0,0,0)" stroke-width="0.3" vector-effect="non-scaling-stroke"/>
+      <polyline points="416.0,76.25 419.0,76.25" fill="none" stroke="rgb(0,0,0)" stroke-width="0.3" vector-effect="non-scaling-stroke"/>
+      <text x="2.425" y="57.703" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.85" fill="rgb(0,0,0)">B</text>
+      <text x="417.575" y="57.703" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.85" fill="rgb(0,0,0)">B</text>
+      <polyline points="1.0,40.125 4.0,40.125" fill="none" stroke="rgb(0,0,0)" stroke-width="0.3" vector-effect="non-scaling-stroke"/>
+      <polyline points="416.0,40.125 419.0,40.125" fill="none" stroke="rgb(0,0,0)" stroke-width="0.3" vector-effect="non-scaling-stroke"/>
+      <text x="2.425" y="21.577999999999975" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.85" fill="rgb(0,0,0)">A</text>
+      <text x="417.575" y="21.577999999999975" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.85" fill="rgb(0,0,0)">A</text>
+      <polyline points="1.0,150.0 4.0,148.5 1.0,147.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.3" vector-effect="non-scaling-stroke"/>
+      <polyline points="419.0,150.0 416.0,148.5 419.0,147.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.3" vector-effect="non-scaling-stroke"/>
+    </g>
+    <g class="label" id="PlantModel1_Drawing1_Groups2">
+      <polyline points="296.0,293.0 296.0,258.0 416.0,258.0 416.0,293.0 296.0,293.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.58" vector-effect="non-scaling-stroke"/>
+      <polyline points="296.0,293.0 296.0,288.0 314.0,288.0 314.0,293.0 296.0,293.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.28" vector-effect="non-scaling-stroke"/>
+      <text x="297.2" y="291.25" text-anchor="start" dominant-baseline="text-bottom" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">APPROVED BY</text>
+      <polyline points="314.0,293.0 314.0,288.0 344.0,288.0 344.0,293.0 314.0,293.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.28" vector-effect="non-scaling-stroke"/>
+      <text x="315.2" y="291.25" text-anchor="start" dominant-baseline="text-bottom" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)"></text>
+      <polyline points="344.0,293.0 344.0,288.0 358.4,288.0 358.4,293.0 344.0,293.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.28" vector-effect="non-scaling-stroke"/>
+      <text x="345.2" y="291.25" text-anchor="start" dominant-baseline="text-bottom" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)"></text>
+      <polyline points="358.4,293.0 358.4,288.0 380.0,288.0 380.0,293.0 358.4,293.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.28" vector-effect="non-scaling-stroke"/>
+      <text x="359.6" y="291.25" text-anchor="start" dominant-baseline="text-bottom" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">DRAWING NO</text>
+      <polyline points="380.0,293.0 380.0,288.0 416.0,288.0 416.0,293.0 380.0,293.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.28" vector-effect="non-scaling-stroke"/>
+      <text x="381.2" y="291.25" text-anchor="start" dominant-baseline="text-bottom" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">LNGT-1-P-05</text>
+      <polyline points="296.0,288.0 296.0,283.0 314.0,283.0 314.0,288.0 296.0,288.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.28" vector-effect="non-scaling-stroke"/>
+      <text x="297.2" y="286.25" text-anchor="start" dominant-baseline="text-bottom" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">CHECKED BY</text>
+      <polyline points="314.0,288.0 314.0,283.0 344.0,283.0 344.0,288.0 314.0,288.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.28" vector-effect="non-scaling-stroke"/>
+      <text x="315.2" y="286.25" text-anchor="start" dominant-baseline="text-bottom" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)"></text>
+      <polyline points="344.0,288.0 344.0,283.0 358.4,283.0 358.4,288.0 344.0,288.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.28" vector-effect="non-scaling-stroke"/>
+      <polyline points="358.4,288.0 358.4,283.0 380.0,283.0 380.0,288.0 358.4,288.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.28" vector-effect="non-scaling-stroke"/>
+      <text x="359.6" y="286.25" text-anchor="start" dominant-baseline="text-bottom" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">PROJECT</text>
+      <polyline points="380.0,288.0 380.0,283.0 416.0,283.0 416.0,288.0 380.0,288.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.28" vector-effect="non-scaling-stroke"/>
+      <text x="381.2" y="286.25" text-anchor="start" dominant-baseline="text-bottom" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">LNGT-1</text>
+      <polyline points="296.0,283.0 296.0,278.0 314.0,278.0 314.0,283.0 296.0,283.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.28" vector-effect="non-scaling-stroke"/>
+      <text x="297.2" y="281.25" text-anchor="start" dominant-baseline="text-bottom" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">CREATED BY</text>
+      <polyline points="314.0,283.0 314.0,278.0 344.0,278.0 344.0,283.0 314.0,283.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.28" vector-effect="non-scaling-stroke"/>
+      <text x="315.2" y="281.25" text-anchor="start" dominant-baseline="text-bottom" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)"></text>
+      <polyline points="344.0,283.0 344.0,278.0 358.4,278.0 358.4,283.0 344.0,283.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.28" vector-effect="non-scaling-stroke"/>
+      <text x="345.2" y="281.25" text-anchor="start" dominant-baseline="text-bottom" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">2026-11-05</text>
+      <polyline points="314.0,278.0 314.0,273.0 344.0,273.0 344.0,278.0 314.0,278.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.28" vector-effect="non-scaling-stroke"/>
+      <text x="315.2" y="276.25" text-anchor="start" dominant-baseline="text-bottom" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">NAME</text>
+      <polyline points="344.0,278.0 344.0,273.0 358.4,273.0 358.4,278.0 344.0,278.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.28" vector-effect="non-scaling-stroke"/>
+      <text x="345.2" y="276.25" text-anchor="start" dominant-baseline="text-bottom" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">DATE</text>
+      <polyline points="358.4,283.0 358.4,273.0 416.0,273.0 416.0,283.0 358.4,283.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.28" vector-effect="non-scaling-stroke"/>
+      <text x="359.6" y="279.2" text-anchor="start" dominant-baseline="text-bottom" font-family="'Calibri', Arial" font-size="4.0" fill="rgb(0,0,0)">Berth 2 loading arms</text>
+      <polyline points="358.4,273.0 358.4,268.0 380.0,268.0 380.0,273.0 358.4,273.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.28" vector-effect="non-scaling-stroke"/>
+      <text x="359.6" y="271.25" text-anchor="start" dominant-baseline="text-bottom" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">PLANT SECTION</text>
+      <polyline points="380.0,273.0 380.0,268.0 416.0,268.0 416.0,273.0 380.0,273.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.28" vector-effect="non-scaling-stroke"/>
+      <text x="381.2" y="271.25" text-anchor="start" dominant-baseline="text-bottom" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)"></text>
+      <polyline points="296.0,273.0 296.0,263.0 358.4,263.0 358.4,273.0 296.0,273.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.28" vector-effect="non-scaling-stroke"/>
+      <text x="297.2" y="269.2" text-anchor="start" dominant-baseline="text-bottom" font-family="'Calibri', Arial" font-size="4.0" fill="rgb(0,0,0)">ChemE-as-Code process library</text>
+      <polyline points="358.4,268.0 358.4,263.0 380.0,263.0 380.0,268.0 358.4,268.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.28" vector-effect="non-scaling-stroke"/>
+      <text x="359.6" y="266.25" text-anchor="start" dominant-baseline="text-bottom" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">SITE</text>
+      <polyline points="380.0,268.0 380.0,263.0 416.0,263.0 416.0,268.0 380.0,268.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.28" vector-effect="non-scaling-stroke"/>
+      <text x="381.2" y="266.25" text-anchor="start" dominant-baseline="text-bottom" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">Kitimat, BC (reference site)</text>
+      <polyline points="296.0,263.0 296.0,258.0 314.0,258.0 314.0,263.0 296.0,263.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.28" vector-effect="non-scaling-stroke"/>
+      <text x="297.2" y="261.25" text-anchor="start" dominant-baseline="text-bottom" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">REVISION</text>
+      <polyline points="314.0,263.0 314.0,258.0 344.0,258.0 344.0,263.0 314.0,263.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.28" vector-effect="non-scaling-stroke"/>
+      <text x="315.2" y="261.25" text-anchor="start" dominant-baseline="text-bottom" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">A</text>
+      <polyline points="344.0,263.0 344.0,258.0 358.4,258.0 358.4,263.0 344.0,263.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.28" vector-effect="non-scaling-stroke"/>
+      <text x="345.2" y="261.25" text-anchor="start" dominant-baseline="text-bottom" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">2026-11-05</text>
+      <polyline points="358.4,263.0 358.4,258.0 380.0,258.0 380.0,263.0 358.4,263.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.28" vector-effect="non-scaling-stroke"/>
+      <text x="359.6" y="261.25" text-anchor="start" dominant-baseline="text-bottom" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">STATUS</text>
+      <polyline points="380.0,263.0 380.0,258.0 416.0,258.0 416.0,263.0 380.0,263.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.28" vector-effect="non-scaling-stroke"/>
+      <text x="381.2" y="261.25" text-anchor="start" dominant-baseline="text-bottom" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">for review</text>
+    </g>
+    <g id="LA5101" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="MARINE_LOADING_ARM_SHAPE" transform="translate(110.00,100.00) scale(2.00,2.00)">
+            <polyline points="0.0,14.0 0.0,-8.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+            <polyline points="-4.0,14.0 4.0,14.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+            <polyline points="-6.0,-6.0 0.0,-8.0 10.0,-14.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.35" vector-effect="non-scaling-stroke"/>
+            <polyline points="10.0,-14.0 16.0,4.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.35" vector-effect="non-scaling-stroke"/>
+            <polyline points="14.5,4.0 17.5,4.0 17.5,6.0 14.5,6.0 14.5,4.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+            <polyline points="-9.0,-8.0 -5.0,-8.0 -5.0,-4.0 -9.0,-4.0 -9.0,-8.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.35" vector-effect="non-scaling-stroke"/>
+            <polyline points="16.0,6.0 16.0,8.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.35" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+      <g id="LA5101_N1" class="representation-group">
+        <g id="LA5101_N1_Node" class="representation-group"/>
+      </g>
+      <g id="LA5101_N2" class="representation-group">
+        <g id="LA5101_N2_Node" class="representation-group"/>
+      </g>
+      <g class="equipmenttagnamelabel">
+        <text x="108.0" y="66.0" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="4.5" fill="rgb(0,0,0)">LA-5101</text>
+      </g>
+    </g>
+    <g id="LA5104" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="MARINE_LOADING_ARM_SHAPE" transform="translate(170.00,100.00) scale(2.00,2.00)">
+            <polyline points="0.0,14.0 0.0,-8.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+            <polyline points="-4.0,14.0 4.0,14.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+            <polyline points="-6.0,-6.0 0.0,-8.0 10.0,-14.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.35" vector-effect="non-scaling-stroke"/>
+            <polyline points="10.0,-14.0 16.0,4.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.35" vector-effect="non-scaling-stroke"/>
+            <polyline points="14.5,4.0 17.5,4.0 17.5,6.0 14.5,6.0 14.5,4.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+            <polyline points="-9.0,-8.0 -5.0,-8.0 -5.0,-4.0 -9.0,-4.0 -9.0,-8.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.35" vector-effect="non-scaling-stroke"/>
+            <polyline points="16.0,6.0 16.0,8.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.35" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+      <g id="LA5104_N1" class="representation-group">
+        <g id="LA5104_N1_Node" class="representation-group"/>
+      </g>
+      <g id="LA5104_N2" class="representation-group">
+        <g id="LA5104_N2_Node" class="representation-group"/>
+      </g>
+      <g class="equipmenttagnamelabel">
+        <text x="168.0" y="66.0" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="4.5" fill="rgb(0,0,0)">LA-5104</text>
+      </g>
+    </g>
+    <g id="LA5103" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="MARINE_LOADING_ARM_SHAPE" transform="translate(230.00,100.00) scale(2.00,2.00)">
+            <polyline points="0.0,14.0 0.0,-8.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+            <polyline points="-4.0,14.0 4.0,14.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+            <polyline points="-6.0,-6.0 0.0,-8.0 10.0,-14.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.35" vector-effect="non-scaling-stroke"/>
+            <polyline points="10.0,-14.0 16.0,4.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.35" vector-effect="non-scaling-stroke"/>
+            <polyline points="14.5,4.0 17.5,4.0 17.5,6.0 14.5,6.0 14.5,4.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+            <polyline points="-9.0,-8.0 -5.0,-8.0 -5.0,-4.0 -9.0,-4.0 -9.0,-8.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.35" vector-effect="non-scaling-stroke"/>
+            <polyline points="16.0,6.0 16.0,8.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.35" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+      <g id="LA5103_N1" class="representation-group">
+        <g id="LA5103_N1_Node" class="representation-group"/>
+      </g>
+      <g id="LA5103_N2" class="representation-group">
+        <g id="LA5103_N2_Node" class="representation-group"/>
+      </g>
+      <g class="equipmenttagnamelabel">
+        <text x="228.0" y="66.0" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="4.5" fill="rgb(0,0,0)">LA-5103</text>
+      </g>
+    </g>
+    <g id="LA5102" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="MARINE_LOADING_ARM_SHAPE" transform="translate(290.00,100.00) scale(2.00,2.00)">
+            <polyline points="0.0,14.0 0.0,-8.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+            <polyline points="-4.0,14.0 4.0,14.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+            <polyline points="-6.0,-6.0 0.0,-8.0 10.0,-14.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.35" vector-effect="non-scaling-stroke"/>
+            <polyline points="10.0,-14.0 16.0,4.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.35" vector-effect="non-scaling-stroke"/>
+            <polyline points="14.5,4.0 17.5,4.0 17.5,6.0 14.5,6.0 14.5,4.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+            <polyline points="-9.0,-8.0 -5.0,-8.0 -5.0,-4.0 -9.0,-4.0 -9.0,-8.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.35" vector-effect="non-scaling-stroke"/>
+            <polyline points="16.0,6.0 16.0,8.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.35" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+      <g id="LA5102_N1" class="representation-group">
+        <g id="LA5102_N1_Node" class="representation-group"/>
+      </g>
+      <g id="LA5102_N2" class="representation-group">
+        <g id="LA5102_N2_Node" class="representation-group"/>
+      </g>
+      <g class="equipmenttagnamelabel">
+        <text x="288.0" y="66.0" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="4.5" fill="rgb(0,0,0)">LA-5102</text>
+      </g>
+    </g>
+    <g id="Line_LNG5001" class="representation-group">
+      <g id="Line_LNG5001_S1" class="representation-group">
+        <g id="Line_LNG5001_S1_P1" class="representation-group">
+          <g class="static">
+            <polyline points="12.0,190.0 26.0,190.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="Line_LNG5001_S1_P2" class="representation-group">
+          <g class="static">
+            <polyline points="30.0,190.0 44.0,190.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="Line_LNG5001_S1_P3" class="representation-group">
+          <g class="static">
+            <polyline points="48.0,190.0 61.999,190.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="Line_LNG5001_From" class="representation-group">
+          <g id="Line_LNG5001_From_N1" class="representation-group"/>
+          <g class="static">
+            <g>
+              <g id="ARROW_FOR_INLET_OF_ESSENTIAL_SUBSTANCES_SHAPE" transform="translate(12.00,190.00) scale(0.70,0.70)">
+                <polyline points="-10.0,2.5 -10.0,-2.5 -5.0,-2.5 -5.0,-5.0 0.0,-0.0 -5.0,5.0 -5.0,2.5 -10.0,2.5" fill="none" stroke="rgb(0,0,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+              </g>
+            </g>
+          </g>
+          <g class="static">
+            <text x="24.0" y="197.0" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">from trestle line A (P-04)</text>
+          </g>
+        </g>
+        <g id="XV5101" class="representation-group">
+          <g id="XV5101_N1" class="representation-group"/>
+          <g id="XV5101_N2" class="representation-group"/>
+          <g class="static">
+            <g>
+              <g id="BALL_VALVE_SHAPE" transform="translate(28.00,190.00) scale(0.40,0.40)">
+                <polyline points="-5.0,-2.5 5.0,2.5 5.0,-2.5 -5.0,2.5 -5.0,-2.5" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+                <ellipse cx="0.0" cy="-0.0" rx="2.5" ry="2.5" fill="rgb(255,255,255)" stroke="rgb(255,255,255)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+                <ellipse cx="0.0" cy="-0.0" rx="2.5" ry="2.5" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="SR5102" class="representation-group">
+          <g id="SR5102_N1" class="representation-group"/>
+          <g id="SR5102_N2" class="representation-group"/>
+          <g class="static">
+            <g>
+              <g id="STRAINER_SHAPE" transform="translate(46.00,190.00) scale(0.40,0.40)">
+                <ellipse cx="0.0" cy="0.0" rx="5.0" ry="5.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.3" vector-effect="non-scaling-stroke"/>
+                <polyline points="-3.0,-4.0 5.0,0.0 -3.0,4.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.3" vector-effect="non-scaling-stroke" stroke-dasharray="0.3,0.6"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="T50N" class="representation-group">
+          <g id="T50N_N1" class="representation-group"/>
+          <g id="T50N_N2" class="representation-group"/>
+          <g id="T50N_N3" class="representation-group"/>
+          <g class="static">
+            <g/>
+          </g>
+        </g>
+      </g>
+      <g id="Line_LNG5001_S2" class="representation-group">
+        <g id="Line_LNG5001_S2_P1" class="representation-group">
+          <g class="static">
+            <polyline points="62.001,190.0 66.999,190.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="T50K" class="representation-group">
+          <g id="T50K_N1" class="representation-group"/>
+          <g id="T50K_N2" class="representation-group"/>
+          <g id="T50K_N3" class="representation-group"/>
+          <g class="static">
+            <g/>
+          </g>
+        </g>
+      </g>
+      <g id="Line_LNG5001_S3" class="representation-group">
+        <g id="Line_LNG5001_S3_P1" class="representation-group">
+          <g class="static">
+            <polyline points="67.001,190.0 76.999,190.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="T50S" class="representation-group">
+          <g id="T50S_N1" class="representation-group"/>
+          <g id="T50S_N2" class="representation-group"/>
+          <g id="T50S_N3" class="representation-group"/>
+          <g class="static">
+            <g/>
+          </g>
+        </g>
+      </g>
+      <g id="Line_LNG5001_S4" class="representation-group">
+        <g id="Line_LNG5001_S4_P1" class="representation-group">
+          <g class="static">
+            <polyline points="77.001,190.0 87.999,190.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="T50D" class="representation-group">
+          <g id="T50D_N1" class="representation-group"/>
+          <g id="T50D_N2" class="representation-group"/>
+          <g id="T50D_N3" class="representation-group"/>
+          <g class="static">
+            <g/>
+          </g>
+        </g>
+      </g>
+      <g id="Line_LNG5001_S5" class="representation-group">
+        <g id="Line_LNG5001_S5_P1" class="representation-group">
+          <g class="static">
+            <polyline points="88.001,190.0 109.999,190.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="T501" class="representation-group">
+          <g id="T501_N1" class="representation-group"/>
+          <g id="T501_N2" class="representation-group"/>
+          <g id="T501_N3" class="representation-group"/>
+          <g class="static">
+            <g/>
+          </g>
+        </g>
+      </g>
+      <g id="Line_LNG5001_S6" class="representation-group">
+        <g id="Line_LNG5001_S6_P1" class="representation-group">
+          <g class="static">
+            <polyline points="110.001,190.0 169.999,190.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="T504" class="representation-group">
+          <g id="T504_N1" class="representation-group"/>
+          <g id="T504_N2" class="representation-group"/>
+          <g id="T504_N3" class="representation-group"/>
+          <g class="static">
+            <g/>
+          </g>
+        </g>
+      </g>
+      <g id="Line_LNG5001_S7" class="representation-group">
+        <g id="Line_LNG5001_S7_P1" class="representation-group">
+          <g class="static">
+            <polyline points="170.001,190.0 230.0,190.0 230.0,183.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="Line_LNG5001_S7_P2" class="representation-group">
+          <g class="static">
+            <polyline points="230.0,179.0 230.0,172.001" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="XV5123" class="representation-group">
+          <g id="XV5123_N1" class="representation-group"/>
+          <g id="XV5123_N2" class="representation-group"/>
+          <g class="static">
+            <g>
+              <g id="BALL_VALVE_SHAPE" transform="translate(230.00,181.00) rotate(270.00) scale(0.40,0.40)">
+                <polyline points="-5.0,-2.5 5.0,2.5 5.0,-2.5 -5.0,2.5 -5.0,-2.5" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+                <ellipse cx="0.0" cy="-0.0" rx="2.5" ry="2.5" fill="rgb(255,255,255)" stroke="rgb(255,255,255)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+                <ellipse cx="0.0" cy="-0.0" rx="2.5" ry="2.5" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="T50H" class="representation-group">
+          <g id="T50H_N1" class="representation-group"/>
+          <g id="T50H_N2" class="representation-group"/>
+          <g id="T50H_N3" class="representation-group"/>
+          <g class="static">
+            <g/>
+          </g>
+        </g>
+      </g>
+      <g id="Line_LNG5001_S8" class="representation-group">
+        <g id="Line_LNG5001_S8_P1" class="representation-group">
+          <g class="static">
+            <polyline points="230.0,171.999 230.0,150.001" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="T5R3" class="representation-group">
+          <g id="T5R3_N1" class="representation-group"/>
+          <g id="T5R3_N2" class="representation-group"/>
+          <g id="T5R3_N3" class="representation-group"/>
+          <g class="static">
+            <g/>
+          </g>
+        </g>
+      </g>
+      <g id="Line_LNG5001_S9" class="representation-group">
+        <g id="Line_LNG5001_S9_P1" class="representation-group">
+          <g class="static">
+            <polyline points="230.0,149.999 230.0,128.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+      <g class="pipingnetworksystemlabel">
+        <text x="192.0" y="198.0" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="3.0" fill="rgb(0,0,0)">LNG-5001</text>
+      </g>
+      <g class="pipingnetworksystemlabel">
+        <text x="192.0" y="202.0" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="3.0" fill="rgb(0,0,0)">DN 800</text>
+      </g>
+    </g>
+    <g id="Line_LNG5002" class="representation-group">
+      <g id="Line_LNG5002_S1" class="representation-group">
+        <g id="Line_LNG5002_S1_P1" class="representation-group">
+          <g class="static">
+            <polyline points="110.0,189.999 110.0,170.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="Line_LNG5002_S1_P2" class="representation-group">
+          <g class="static">
+            <polyline points="110.0,166.0 110.0,150.001" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="XV5121" class="representation-group">
+          <g id="XV5121_N1" class="representation-group"/>
+          <g id="XV5121_N2" class="representation-group"/>
+          <g class="static">
+            <g>
+              <g id="BALL_VALVE_SHAPE" transform="translate(110.00,168.00) rotate(270.00) scale(0.40,0.40)">
+                <polyline points="-5.0,-2.5 5.0,2.5 5.0,-2.5 -5.0,2.5 -5.0,-2.5" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+                <ellipse cx="0.0" cy="-0.0" rx="2.5" ry="2.5" fill="rgb(255,255,255)" stroke="rgb(255,255,255)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+                <ellipse cx="0.0" cy="-0.0" rx="2.5" ry="2.5" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="T5R1" class="representation-group">
+          <g id="T5R1_N1" class="representation-group"/>
+          <g id="T5R1_N2" class="representation-group"/>
+          <g id="T5R1_N3" class="representation-group"/>
+          <g class="static">
+            <g/>
+          </g>
+        </g>
+      </g>
+      <g id="Line_LNG5002_S2" class="representation-group">
+        <g id="Line_LNG5002_S2_P1" class="representation-group">
+          <g class="static">
+            <polyline points="110.0,149.999 110.0,128.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+      <g class="pipingnetworksystemlabel">
+        <text x="124.0" y="150.0" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="3.0" fill="rgb(0,0,0)">LNG-5002</text>
+      </g>
+      <g class="pipingnetworksystemlabel">
+        <text x="124.0" y="154.0" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="3.0" fill="rgb(0,0,0)">DN 400</text>
+      </g>
+    </g>
+    <g id="Line_LNG5003" class="representation-group">
+      <g id="Line_LNG5003_S1" class="representation-group">
+        <g id="Line_LNG5003_S1_P1" class="representation-group">
+          <g class="static">
+            <polyline points="170.0,189.999 170.0,170.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="Line_LNG5003_S1_P2" class="representation-group">
+          <g class="static">
+            <polyline points="170.0,166.0 170.0,150.001" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="XV5124" class="representation-group">
+          <g id="XV5124_N1" class="representation-group"/>
+          <g id="XV5124_N2" class="representation-group"/>
+          <g class="static">
+            <g>
+              <g id="BALL_VALVE_SHAPE" transform="translate(170.00,168.00) rotate(270.00) scale(0.40,0.40)">
+                <polyline points="-5.0,-2.5 5.0,2.5 5.0,-2.5 -5.0,2.5 -5.0,-2.5" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+                <ellipse cx="0.0" cy="-0.0" rx="2.5" ry="2.5" fill="rgb(255,255,255)" stroke="rgb(255,255,255)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+                <ellipse cx="0.0" cy="-0.0" rx="2.5" ry="2.5" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="T5R4" class="representation-group">
+          <g id="T5R4_N1" class="representation-group"/>
+          <g id="T5R4_N2" class="representation-group"/>
+          <g id="T5R4_N3" class="representation-group"/>
+          <g class="static">
+            <g/>
+          </g>
+        </g>
+      </g>
+      <g id="Line_LNG5003_S2" class="representation-group">
+        <g id="Line_LNG5003_S2_P1" class="representation-group">
+          <g class="static">
+            <polyline points="170.0,149.999 170.0,128.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+      <g class="pipingnetworksystemlabel">
+        <text x="184.0" y="150.0" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="3.0" fill="rgb(0,0,0)">LNG-5003</text>
+      </g>
+      <g class="pipingnetworksystemlabel">
+        <text x="184.0" y="154.0" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="3.0" fill="rgb(0,0,0)">DN 400</text>
+      </g>
+    </g>
+    <g id="Line_BOG5001" class="representation-group">
+      <g id="Line_BOG5001_S1" class="representation-group">
+        <g id="Line_BOG5001_S1_P1" class="representation-group">
+          <g class="static">
+            <polyline points="290.0,128.0 290.0,148.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="Line_BOG5001_S1_P2" class="representation-group">
+          <g class="static">
+            <polyline points="290.0,152.0 290.0,164.999" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="XV5122" class="representation-group">
+          <g id="XV5122_N1" class="representation-group"/>
+          <g id="XV5122_N2" class="representation-group"/>
+          <g class="static">
+            <g>
+              <g id="BALL_VALVE_SHAPE" transform="translate(290.00,150.00) rotate(90.00) scale(0.40,0.40)">
+                <polyline points="-5.0,-2.5 5.0,2.5 5.0,-2.5 -5.0,2.5 -5.0,-2.5" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+                <ellipse cx="0.0" cy="-0.0" rx="2.5" ry="2.5" fill="rgb(255,255,255)" stroke="rgb(255,255,255)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+                <ellipse cx="0.0" cy="-0.0" rx="2.5" ry="2.5" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="T50W" class="representation-group">
+          <g id="T50W_N1" class="representation-group"/>
+          <g id="T50W_N2" class="representation-group"/>
+          <g id="T50W_N3" class="representation-group"/>
+          <g class="static">
+            <g/>
+          </g>
+        </g>
+      </g>
+      <g id="Line_BOG5001_S2" class="representation-group">
+        <g id="Line_BOG5001_S2_P1" class="representation-group">
+          <g class="static">
+            <polyline points="290.0,165.001 290.0,171.999" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="T50V" class="representation-group">
+          <g id="T50V_N1" class="representation-group"/>
+          <g id="T50V_N2" class="representation-group"/>
+          <g id="T50V_N3" class="representation-group"/>
+          <g class="static">
+            <g/>
+          </g>
+        </g>
+      </g>
+      <g id="Line_BOG5001_S3" class="representation-group">
+        <g id="Line_BOG5001_S3_P1" class="representation-group">
+          <g class="static">
+            <polyline points="290.0,172.001 290.0,182.0 405.0,182.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="Line_BOG5001_To" class="representation-group">
+          <g id="Line_BOG5001_To_N1" class="representation-group"/>
+          <g class="static">
+            <g>
+              <g id="ARROW_FOR_OUTLET_OF_ESSENTIAL_SUBSTANCES_SHAPE" transform="translate(405.00,182.00) scale(0.70,0.70)">
+                <polyline points="0.0,2.5 0.0,-2.5 5.0,-2.5 5.0,-5.0 10.0,-0.0 5.0,5.0 5.0,2.5 0.0,2.5" fill="none" stroke="rgb(0,0,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+              </g>
+            </g>
+          </g>
+          <g class="static">
+            <text x="388.0" y="176.0" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">to vapour return A (P-04)</text>
+          </g>
+        </g>
+      </g>
+      <g class="pipingnetworksystemlabel">
+        <text x="370.0" y="190.0" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="3.0" fill="rgb(0,0,0)">BOG-5001</text>
+      </g>
+      <g class="pipingnetworksystemlabel">
+        <text x="370.0" y="194.0" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="3.0" fill="rgb(0,0,0)">DN 400</text>
+      </g>
+    </g>
+    <g id="Line_BOG5003" class="representation-group">
+      <g id="Line_BOG5003_S1" class="representation-group">
+        <g id="Line_BOG5003_S1_P1" class="representation-group">
+          <g class="static">
+            <polyline points="230.001,172.0 256.0,172.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="Line_BOG5003_S1_P2" class="representation-group">
+          <g class="static">
+            <polyline points="260.0,172.0 289.999,172.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="XV5125" class="representation-group">
+          <g id="XV5125_N1" class="representation-group"/>
+          <g id="XV5125_N2" class="representation-group"/>
+          <g class="static">
+            <g>
+              <g id="BALL_VALVE_SHAPE" transform="translate(258.00,172.00) scale(0.40,0.40)">
+                <polyline points="-5.0,-2.5 5.0,2.5 5.0,-2.5 -5.0,2.5 -5.0,-2.5" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+                <ellipse cx="0.0" cy="-0.0" rx="2.5" ry="2.5" fill="rgb(255,255,255)" stroke="rgb(255,255,255)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+                <ellipse cx="0.0" cy="-0.0" rx="2.5" ry="2.5" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Line_LNG5011" class="representation-group">
+      <g id="Line_LNG5011_S1" class="representation-group">
+        <g id="Line_LNG5011_S1_P1" class="representation-group">
+          <g class="static">
+            <polyline points="142.0,116.0 142.0,123.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="Line_LNG5011_S1_P2" class="representation-group">
+          <g class="static">
+            <polyline points="142.0,127.0 142.0,138.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="Line_LNG5011_S1_P3" class="representation-group">
+          <g class="static">
+            <polyline points="142.0,142.0 142.0,156.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="XV5131" class="representation-group">
+          <g id="XV5131_N1" class="representation-group"/>
+          <g id="XV5131_N2" class="representation-group"/>
+          <g class="static">
+            <g>
+              <g id="BALL_VALVE_SHAPE" transform="translate(142.00,125.00) rotate(90.00) scale(0.40,0.40)">
+                <polyline points="-5.0,-2.5 5.0,2.5 5.0,-2.5 -5.0,2.5 -5.0,-2.5" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+                <ellipse cx="0.0" cy="-0.0" rx="2.5" ry="2.5" fill="rgb(255,255,255)" stroke="rgb(255,255,255)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+                <ellipse cx="0.0" cy="-0.0" rx="2.5" ry="2.5" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="XV5141" class="representation-group">
+          <g id="XV5141_N1" class="representation-group"/>
+          <g id="XV5141_N2" class="representation-group"/>
+          <g class="static">
+            <g>
+              <g id="BALL_VALVE_SHAPE" transform="translate(142.00,140.00) rotate(90.00) scale(0.40,0.40)">
+                <polyline points="-5.0,-2.5 5.0,2.5 5.0,-2.5 -5.0,2.5 -5.0,-2.5" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+                <ellipse cx="0.0" cy="-0.0" rx="2.5" ry="2.5" fill="rgb(255,255,255)" stroke="rgb(255,255,255)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+                <ellipse cx="0.0" cy="-0.0" rx="2.5" ry="2.5" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="Line_LNG5011_To" class="representation-group">
+          <g id="Line_LNG5011_To_N1" class="representation-group"/>
+          <g class="static">
+            <g>
+              <g id="ARROW_FOR_OUTLET_OF_ESSENTIAL_SUBSTANCES_SHAPE" transform="translate(142.00,156.00) rotate(90.00) scale(0.70,0.70)">
+                <polyline points="0.0,2.5 0.0,-2.5 5.0,-2.5 5.0,-5.0 10.0,-0.0 5.0,5.0 5.0,2.5 0.0,2.5" fill="none" stroke="rgb(0,0,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+              </g>
+            </g>
+          </g>
+          <g class="static">
+            <text x="153.0" y="160.0" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">to carrier</text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Inst_PZT5181" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="INSTRUMENTATION_BUBBLE_SHAPE_CENTRAL" transform="translate(127.00,113.00)">
+            <polyline points="-3.0,-3.75 3.0,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M -3.00,3.75 A 3.75,3.75 0.00 0,1 -3.00,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-3.0,3.75 3.0,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M 3.00,-3.75 A 3.75,3.75 0.00 0,1 3.00,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-6.75,-0.0 6.75,-0.0" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+      <g id="Inst_PZT5181_MeasuringLine" class="representation-group">
+        <g class="static">
+          <polyline points="142.0,119.0 137.875,119.0 137.875,113.0 133.75,113.0" fill="none" stroke="rgb(0,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+        </g>
+      </g>
+      <g class="processinstrumentationfunctionlabel">
+        <text x="127.0" y="111.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">PZT</text>
+        <text x="127.0" y="114.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">5181</text>
+      </g>
+    </g>
+    <g id="Inst_UZ5131" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="INSTRUMENTATION_BUBBLE_SHAPE_CENTRAL" transform="translate(129.00,125.00)">
+            <polyline points="-3.0,-3.75 3.0,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M -3.00,3.75 A 3.75,3.75 0.00 0,1 -3.00,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-3.0,3.75 3.0,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M 3.00,-3.75 A 3.75,3.75 0.00 0,1 3.00,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-6.75,-0.0 6.75,-0.0" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+      <g id="Inst_UZ5131_Signal" class="representation-group">
+        <g class="static">
+          <polyline points="135.75,125.0 134.8,125.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.25" vector-effect="non-scaling-stroke" stroke-dasharray="2.5,0.5"/>
+        </g>
+      </g>
+      <g class="processinstrumentationfunctionlabel">
+        <text x="129.0" y="123.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">UZ</text>
+        <text x="129.0" y="126.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">5131</text>
+      </g>
+    </g>
+    <g id="Inst_UZ5131_Actuator" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="CONTROLLED_ACTUATOR_SHAPE" transform="translate(142.00,125.00) rotate(180.00) scale(0.40,0.40)">
+            <ellipse cx="13.5" cy="-0.0" rx="4.5" ry="4.5" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+            <polyline points="9.0,-0.0 0.0,-0.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Inst_UZ5141" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="INSTRUMENTATION_BUBBLE_SHAPE_CENTRAL" transform="translate(129.00,140.00)">
+            <polyline points="-3.0,-3.75 3.0,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M -3.00,3.75 A 3.75,3.75 0.00 0,1 -3.00,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-3.0,3.75 3.0,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M 3.00,-3.75 A 3.75,3.75 0.00 0,1 3.00,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-6.75,-0.0 6.75,-0.0" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+      <g id="Inst_UZ5141_Signal" class="representation-group">
+        <g class="static">
+          <polyline points="135.75,140.0 134.8,140.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.25" vector-effect="non-scaling-stroke" stroke-dasharray="2.5,0.5"/>
+        </g>
+      </g>
+      <g class="processinstrumentationfunctionlabel">
+        <text x="129.0" y="138.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">UZ</text>
+        <text x="129.0" y="141.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">5141</text>
+      </g>
+    </g>
+    <g id="Inst_UZ5141_Actuator" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="CONTROLLED_ACTUATOR_SHAPE" transform="translate(142.00,140.00) rotate(180.00) scale(0.40,0.40)">
+            <ellipse cx="13.5" cy="-0.0" rx="4.5" ry="4.5" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+            <polyline points="9.0,-0.0 0.0,-0.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Inst_ZS5151" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="INSTRUMENTATION_BUBBLE_SHAPE_CENTRAL" transform="translate(118.00,56.00)">
+            <polyline points="-3.0,-3.75 3.0,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M -3.00,3.75 A 3.75,3.75 0.00 0,1 -3.00,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-3.0,3.75 3.0,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M 3.00,-3.75 A 3.75,3.75 0.00 0,1 3.00,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-6.75,-0.0 6.75,-0.0" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+      <g class="processinstrumentationfunctionlabel">
+        <text x="118.0" y="54.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">ZS</text>
+        <text x="118.0" y="57.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">5151</text>
+      </g>
+    </g>
+    <g id="Line_LNG5014" class="representation-group">
+      <g id="Line_LNG5014_S1" class="representation-group">
+        <g id="Line_LNG5014_S1_P1" class="representation-group">
+          <g class="static">
+            <polyline points="202.0,116.0 202.0,123.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="Line_LNG5014_S1_P2" class="representation-group">
+          <g class="static">
+            <polyline points="202.0,127.0 202.0,138.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="Line_LNG5014_S1_P3" class="representation-group">
+          <g class="static">
+            <polyline points="202.0,142.0 202.0,156.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="XV5134" class="representation-group">
+          <g id="XV5134_N1" class="representation-group"/>
+          <g id="XV5134_N2" class="representation-group"/>
+          <g class="static">
+            <g>
+              <g id="BALL_VALVE_SHAPE" transform="translate(202.00,125.00) rotate(90.00) scale(0.40,0.40)">
+                <polyline points="-5.0,-2.5 5.0,2.5 5.0,-2.5 -5.0,2.5 -5.0,-2.5" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+                <ellipse cx="0.0" cy="-0.0" rx="2.5" ry="2.5" fill="rgb(255,255,255)" stroke="rgb(255,255,255)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+                <ellipse cx="0.0" cy="-0.0" rx="2.5" ry="2.5" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="XV5144" class="representation-group">
+          <g id="XV5144_N1" class="representation-group"/>
+          <g id="XV5144_N2" class="representation-group"/>
+          <g class="static">
+            <g>
+              <g id="BALL_VALVE_SHAPE" transform="translate(202.00,140.00) rotate(90.00) scale(0.40,0.40)">
+                <polyline points="-5.0,-2.5 5.0,2.5 5.0,-2.5 -5.0,2.5 -5.0,-2.5" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+                <ellipse cx="0.0" cy="-0.0" rx="2.5" ry="2.5" fill="rgb(255,255,255)" stroke="rgb(255,255,255)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+                <ellipse cx="0.0" cy="-0.0" rx="2.5" ry="2.5" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="Line_LNG5014_To" class="representation-group">
+          <g id="Line_LNG5014_To_N1" class="representation-group"/>
+          <g class="static">
+            <g>
+              <g id="ARROW_FOR_OUTLET_OF_ESSENTIAL_SUBSTANCES_SHAPE" transform="translate(202.00,156.00) rotate(90.00) scale(0.70,0.70)">
+                <polyline points="0.0,2.5 0.0,-2.5 5.0,-2.5 5.0,-5.0 10.0,-0.0 5.0,5.0 5.0,2.5 0.0,2.5" fill="none" stroke="rgb(0,0,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+              </g>
+            </g>
+          </g>
+          <g class="static">
+            <text x="213.0" y="160.0" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">to carrier</text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Inst_PZT5184" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="INSTRUMENTATION_BUBBLE_SHAPE_CENTRAL" transform="translate(187.00,113.00)">
+            <polyline points="-3.0,-3.75 3.0,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M -3.00,3.75 A 3.75,3.75 0.00 0,1 -3.00,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-3.0,3.75 3.0,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M 3.00,-3.75 A 3.75,3.75 0.00 0,1 3.00,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-6.75,-0.0 6.75,-0.0" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+      <g id="Inst_PZT5184_MeasuringLine" class="representation-group">
+        <g class="static">
+          <polyline points="202.0,119.0 197.875,119.0 197.875,113.0 193.75,113.0" fill="none" stroke="rgb(0,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+        </g>
+      </g>
+      <g class="processinstrumentationfunctionlabel">
+        <text x="187.0" y="111.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">PZT</text>
+        <text x="187.0" y="114.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">5184</text>
+      </g>
+    </g>
+    <g id="Inst_UZ5134" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="INSTRUMENTATION_BUBBLE_SHAPE_CENTRAL" transform="translate(189.00,125.00)">
+            <polyline points="-3.0,-3.75 3.0,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M -3.00,3.75 A 3.75,3.75 0.00 0,1 -3.00,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-3.0,3.75 3.0,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M 3.00,-3.75 A 3.75,3.75 0.00 0,1 3.00,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-6.75,-0.0 6.75,-0.0" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+      <g id="Inst_UZ5134_Signal" class="representation-group">
+        <g class="static">
+          <polyline points="195.75,125.0 194.8,125.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.25" vector-effect="non-scaling-stroke" stroke-dasharray="2.5,0.5"/>
+        </g>
+      </g>
+      <g class="processinstrumentationfunctionlabel">
+        <text x="189.0" y="123.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">UZ</text>
+        <text x="189.0" y="126.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">5134</text>
+      </g>
+    </g>
+    <g id="Inst_UZ5134_Actuator" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="CONTROLLED_ACTUATOR_SHAPE" transform="translate(202.00,125.00) rotate(180.00) scale(0.40,0.40)">
+            <ellipse cx="13.5" cy="-0.0" rx="4.5" ry="4.5" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+            <polyline points="9.0,-0.0 0.0,-0.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Inst_UZ5144" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="INSTRUMENTATION_BUBBLE_SHAPE_CENTRAL" transform="translate(189.00,140.00)">
+            <polyline points="-3.0,-3.75 3.0,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M -3.00,3.75 A 3.75,3.75 0.00 0,1 -3.00,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-3.0,3.75 3.0,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M 3.00,-3.75 A 3.75,3.75 0.00 0,1 3.00,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-6.75,-0.0 6.75,-0.0" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+      <g id="Inst_UZ5144_Signal" class="representation-group">
+        <g class="static">
+          <polyline points="195.75,140.0 194.8,140.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.25" vector-effect="non-scaling-stroke" stroke-dasharray="2.5,0.5"/>
+        </g>
+      </g>
+      <g class="processinstrumentationfunctionlabel">
+        <text x="189.0" y="138.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">UZ</text>
+        <text x="189.0" y="141.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">5144</text>
+      </g>
+    </g>
+    <g id="Inst_UZ5144_Actuator" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="CONTROLLED_ACTUATOR_SHAPE" transform="translate(202.00,140.00) rotate(180.00) scale(0.40,0.40)">
+            <ellipse cx="13.5" cy="-0.0" rx="4.5" ry="4.5" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+            <polyline points="9.0,-0.0 0.0,-0.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Inst_ZS5154" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="INSTRUMENTATION_BUBBLE_SHAPE_CENTRAL" transform="translate(178.00,56.00)">
+            <polyline points="-3.0,-3.75 3.0,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M -3.00,3.75 A 3.75,3.75 0.00 0,1 -3.00,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-3.0,3.75 3.0,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M 3.00,-3.75 A 3.75,3.75 0.00 0,1 3.00,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-6.75,-0.0 6.75,-0.0" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+      <g class="processinstrumentationfunctionlabel">
+        <text x="178.0" y="54.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">ZS</text>
+        <text x="178.0" y="57.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">5154</text>
+      </g>
+    </g>
+    <g id="Line_LNG5013" class="representation-group">
+      <g id="Line_LNG5013_S1" class="representation-group">
+        <g id="Line_LNG5013_S1_P1" class="representation-group">
+          <g class="static">
+            <polyline points="262.0,116.0 262.0,123.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="Line_LNG5013_S1_P2" class="representation-group">
+          <g class="static">
+            <polyline points="262.0,127.0 262.0,138.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="Line_LNG5013_S1_P3" class="representation-group">
+          <g class="static">
+            <polyline points="262.0,142.0 262.0,156.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="XV5133" class="representation-group">
+          <g id="XV5133_N1" class="representation-group"/>
+          <g id="XV5133_N2" class="representation-group"/>
+          <g class="static">
+            <g>
+              <g id="BALL_VALVE_SHAPE" transform="translate(262.00,125.00) rotate(90.00) scale(0.40,0.40)">
+                <polyline points="-5.0,-2.5 5.0,2.5 5.0,-2.5 -5.0,2.5 -5.0,-2.5" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+                <ellipse cx="0.0" cy="-0.0" rx="2.5" ry="2.5" fill="rgb(255,255,255)" stroke="rgb(255,255,255)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+                <ellipse cx="0.0" cy="-0.0" rx="2.5" ry="2.5" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="XV5143" class="representation-group">
+          <g id="XV5143_N1" class="representation-group"/>
+          <g id="XV5143_N2" class="representation-group"/>
+          <g class="static">
+            <g>
+              <g id="BALL_VALVE_SHAPE" transform="translate(262.00,140.00) rotate(90.00) scale(0.40,0.40)">
+                <polyline points="-5.0,-2.5 5.0,2.5 5.0,-2.5 -5.0,2.5 -5.0,-2.5" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+                <ellipse cx="0.0" cy="-0.0" rx="2.5" ry="2.5" fill="rgb(255,255,255)" stroke="rgb(255,255,255)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+                <ellipse cx="0.0" cy="-0.0" rx="2.5" ry="2.5" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="Line_LNG5013_To" class="representation-group">
+          <g id="Line_LNG5013_To_N1" class="representation-group"/>
+          <g class="static">
+            <g>
+              <g id="ARROW_FOR_OUTLET_OF_ESSENTIAL_SUBSTANCES_SHAPE" transform="translate(262.00,156.00) rotate(90.00) scale(0.70,0.70)">
+                <polyline points="0.0,2.5 0.0,-2.5 5.0,-2.5 5.0,-5.0 10.0,-0.0 5.0,5.0 5.0,2.5 0.0,2.5" fill="none" stroke="rgb(0,0,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+              </g>
+            </g>
+          </g>
+          <g class="static">
+            <text x="251.0" y="160.0" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">to carrier</text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Inst_UZ5133" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="INSTRUMENTATION_BUBBLE_SHAPE_CENTRAL" transform="translate(249.00,125.00)">
+            <polyline points="-3.0,-3.75 3.0,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M -3.00,3.75 A 3.75,3.75 0.00 0,1 -3.00,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-3.0,3.75 3.0,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M 3.00,-3.75 A 3.75,3.75 0.00 0,1 3.00,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-6.75,-0.0 6.75,-0.0" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+      <g id="Inst_UZ5133_Signal" class="representation-group">
+        <g class="static">
+          <polyline points="255.75,125.0 254.8,125.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.25" vector-effect="non-scaling-stroke" stroke-dasharray="2.5,0.5"/>
+        </g>
+      </g>
+      <g class="processinstrumentationfunctionlabel">
+        <text x="249.0" y="123.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">UZ</text>
+        <text x="249.0" y="126.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">5133</text>
+      </g>
+    </g>
+    <g id="Inst_UZ5133_Actuator" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="CONTROLLED_ACTUATOR_SHAPE" transform="translate(262.00,125.00) rotate(180.00) scale(0.40,0.40)">
+            <ellipse cx="13.5" cy="-0.0" rx="4.5" ry="4.5" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+            <polyline points="9.0,-0.0 0.0,-0.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Inst_UZ5143" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="INSTRUMENTATION_BUBBLE_SHAPE_CENTRAL" transform="translate(249.00,140.00)">
+            <polyline points="-3.0,-3.75 3.0,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M -3.00,3.75 A 3.75,3.75 0.00 0,1 -3.00,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-3.0,3.75 3.0,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M 3.00,-3.75 A 3.75,3.75 0.00 0,1 3.00,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-6.75,-0.0 6.75,-0.0" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+      <g id="Inst_UZ5143_Signal" class="representation-group">
+        <g class="static">
+          <polyline points="255.75,140.0 254.8,140.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.25" vector-effect="non-scaling-stroke" stroke-dasharray="2.5,0.5"/>
+        </g>
+      </g>
+      <g class="processinstrumentationfunctionlabel">
+        <text x="249.0" y="138.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">UZ</text>
+        <text x="249.0" y="141.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">5143</text>
+      </g>
+    </g>
+    <g id="Inst_UZ5143_Actuator" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="CONTROLLED_ACTUATOR_SHAPE" transform="translate(262.00,140.00) rotate(180.00) scale(0.40,0.40)">
+            <ellipse cx="13.5" cy="-0.0" rx="4.5" ry="4.5" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+            <polyline points="9.0,-0.0 0.0,-0.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Inst_ZS5153" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="INSTRUMENTATION_BUBBLE_SHAPE_CENTRAL" transform="translate(238.00,56.00)">
+            <polyline points="-3.0,-3.75 3.0,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M -3.00,3.75 A 3.75,3.75 0.00 0,1 -3.00,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-3.0,3.75 3.0,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M 3.00,-3.75 A 3.75,3.75 0.00 0,1 3.00,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-6.75,-0.0 6.75,-0.0" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+      <g class="processinstrumentationfunctionlabel">
+        <text x="238.0" y="54.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">ZS</text>
+        <text x="238.0" y="57.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">5153</text>
+      </g>
+    </g>
+    <g id="Line_BOG5012" class="representation-group">
+      <g id="Line_BOG5012_S1" class="representation-group">
+        <g id="Line_BOG5012_S1_P1" class="representation-group">
+          <g class="static">
+            <polyline points="405.0,160.0 322.0,160.0 322.0,142.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="Line_BOG5012_S1_P2" class="representation-group">
+          <g class="static">
+            <polyline points="322.0,138.0 322.0,127.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="Line_BOG5012_S1_P3" class="representation-group">
+          <g class="static">
+            <polyline points="322.0,123.0 322.0,116.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="Line_BOG5012_From" class="representation-group">
+          <g id="Line_BOG5012_From_N1" class="representation-group"/>
+          <g class="static">
+            <g>
+              <g id="ARROW_FOR_INLET_OF_ESSENTIAL_SUBSTANCES_SHAPE" transform="translate(405.00,160.00) rotate(180.00) scale(0.70,0.70)">
+                <polyline points="-10.0,2.5 -10.0,-2.5 -5.0,-2.5 -5.0,-5.0 0.0,-0.0 -5.0,5.0 -5.0,2.5 -10.0,2.5" fill="none" stroke="rgb(0,0,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+              </g>
+            </g>
+          </g>
+          <g class="static">
+            <text x="392.0" y="155.0" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">from carrier</text>
+          </g>
+        </g>
+        <g id="XV5142" class="representation-group">
+          <g id="XV5142_N1" class="representation-group"/>
+          <g id="XV5142_N2" class="representation-group"/>
+          <g class="static">
+            <g>
+              <g id="BALL_VALVE_SHAPE" transform="translate(322.00,140.00) rotate(270.00) scale(0.40,0.40)">
+                <polyline points="-5.0,-2.5 5.0,2.5 5.0,-2.5 -5.0,2.5 -5.0,-2.5" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+                <ellipse cx="0.0" cy="-0.0" rx="2.5" ry="2.5" fill="rgb(255,255,255)" stroke="rgb(255,255,255)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+                <ellipse cx="0.0" cy="-0.0" rx="2.5" ry="2.5" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="XV5132" class="representation-group">
+          <g id="XV5132_N1" class="representation-group"/>
+          <g id="XV5132_N2" class="representation-group"/>
+          <g class="static">
+            <g>
+              <g id="BALL_VALVE_SHAPE" transform="translate(322.00,125.00) rotate(270.00) scale(0.40,0.40)">
+                <polyline points="-5.0,-2.5 5.0,2.5 5.0,-2.5 -5.0,2.5 -5.0,-2.5" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+                <ellipse cx="0.0" cy="-0.0" rx="2.5" ry="2.5" fill="rgb(255,255,255)" stroke="rgb(255,255,255)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+                <ellipse cx="0.0" cy="-0.0" rx="2.5" ry="2.5" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Inst_UZ5132" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="INSTRUMENTATION_BUBBLE_SHAPE_CENTRAL" transform="translate(309.00,125.00)">
+            <polyline points="-3.0,-3.75 3.0,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M -3.00,3.75 A 3.75,3.75 0.00 0,1 -3.00,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-3.0,3.75 3.0,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M 3.00,-3.75 A 3.75,3.75 0.00 0,1 3.00,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-6.75,-0.0 6.75,-0.0" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+      <g id="Inst_UZ5132_Signal" class="representation-group">
+        <g class="static">
+          <polyline points="315.75,125.0 314.8,125.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.25" vector-effect="non-scaling-stroke" stroke-dasharray="2.5,0.5"/>
+        </g>
+      </g>
+      <g class="processinstrumentationfunctionlabel">
+        <text x="309.0" y="123.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">UZ</text>
+        <text x="309.0" y="126.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">5132</text>
+      </g>
+    </g>
+    <g id="Inst_UZ5132_Actuator" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="CONTROLLED_ACTUATOR_SHAPE" transform="translate(322.00,125.00) rotate(180.00) scale(0.40,0.40)">
+            <ellipse cx="13.5" cy="-0.0" rx="4.5" ry="4.5" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+            <polyline points="9.0,-0.0 0.0,-0.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Inst_UZ5142" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="INSTRUMENTATION_BUBBLE_SHAPE_CENTRAL" transform="translate(309.00,140.00)">
+            <polyline points="-3.0,-3.75 3.0,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M -3.00,3.75 A 3.75,3.75 0.00 0,1 -3.00,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-3.0,3.75 3.0,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M 3.00,-3.75 A 3.75,3.75 0.00 0,1 3.00,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-6.75,-0.0 6.75,-0.0" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+      <g id="Inst_UZ5142_Signal" class="representation-group">
+        <g class="static">
+          <polyline points="315.75,140.0 314.8,140.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.25" vector-effect="non-scaling-stroke" stroke-dasharray="2.5,0.5"/>
+        </g>
+      </g>
+      <g class="processinstrumentationfunctionlabel">
+        <text x="309.0" y="138.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">UZ</text>
+        <text x="309.0" y="141.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">5142</text>
+      </g>
+    </g>
+    <g id="Inst_UZ5142_Actuator" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="CONTROLLED_ACTUATOR_SHAPE" transform="translate(322.00,140.00) rotate(180.00) scale(0.40,0.40)">
+            <ellipse cx="13.5" cy="-0.0" rx="4.5" ry="4.5" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+            <polyline points="9.0,-0.0 0.0,-0.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Inst_ZS5152" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="INSTRUMENTATION_BUBBLE_SHAPE_CENTRAL" transform="translate(298.00,56.00)">
+            <polyline points="-3.0,-3.75 3.0,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M -3.00,3.75 A 3.75,3.75 0.00 0,1 -3.00,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-3.0,3.75 3.0,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M 3.00,-3.75 A 3.75,3.75 0.00 0,1 3.00,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-6.75,-0.0 6.75,-0.0" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+      <g class="processinstrumentationfunctionlabel">
+        <text x="298.0" y="54.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">ZS</text>
+        <text x="298.0" y="57.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">5152</text>
+      </g>
+    </g>
+    <g id="Line_N8001" class="representation-group">
+      <g id="Line_N8001_S1" class="representation-group">
+        <g id="Line_N8001_S1_P1" class="representation-group">
+          <g class="static">
+            <polyline points="12.0,160.0 18.0,160.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="Line_N8001_S1_P2" class="representation-group">
+          <g class="static">
+            <polyline points="22.0,160.0 31.999,160.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="Line_N8001_From" class="representation-group">
+          <g id="Line_N8001_From_N1" class="representation-group"/>
+          <g class="static">
+            <g>
+              <g id="ARROW_FOR_INLET_OF_ESSENTIAL_SUBSTANCES_SHAPE" transform="translate(12.00,160.00) scale(0.70,0.70)">
+                <polyline points="-10.0,2.5 -10.0,-2.5 -5.0,-2.5 -5.0,-5.0 0.0,-0.0 -5.0,5.0 -5.0,2.5 -10.0,2.5" fill="none" stroke="rgb(0,0,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+              </g>
+            </g>
+          </g>
+          <g class="static">
+            <text x="14.0" y="154.0" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">N2 (P-08)</text>
+          </g>
+        </g>
+        <g id="HV5151" class="representation-group">
+          <g id="HV5151_N1" class="representation-group"/>
+          <g id="HV5151_N2" class="representation-group"/>
+          <g class="static">
+            <g>
+              <g id="BALL_VALVE_SHAPE" transform="translate(20.00,160.00) scale(0.40,0.40)">
+                <polyline points="-5.0,-2.5 5.0,2.5 5.0,-2.5 -5.0,2.5 -5.0,-2.5" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+                <ellipse cx="0.0" cy="-0.0" rx="2.5" ry="2.5" fill="rgb(255,255,255)" stroke="rgb(255,255,255)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+                <ellipse cx="0.0" cy="-0.0" rx="2.5" ry="2.5" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+              </g>
+            </g>
+          </g>
+          <g class="valvelabel">
+            <text x="20.0" y="165.0" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="3.0" fill="rgb(0,0,0)">HV-5151</text>
+          </g>
+        </g>
+        <g id="T50B" class="representation-group">
+          <g id="T50B_N1" class="representation-group"/>
+          <g id="T50B_N2" class="representation-group"/>
+          <g id="T50B_N3" class="representation-group"/>
+          <g class="static">
+            <g/>
+          </g>
+        </g>
+      </g>
+      <g id="Line_N8001_S2" class="representation-group">
+        <g id="Line_N8001_S2_P1" class="representation-group">
+          <g class="static">
+            <polyline points="32.001,160.0 40.0,160.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="Line_N8001_S2_P2" class="representation-group">
+          <g class="static">
+            <polyline points="44.0,160.0 50.0,160.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="Line_N8001_S2_P3" class="representation-group">
+          <g class="static">
+            <polyline points="54.0,160.0 62.0,160.0 62.0,189.999" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="HV5152" class="representation-group">
+          <g id="HV5152_N1" class="representation-group"/>
+          <g id="HV5152_N2" class="representation-group"/>
+          <g class="static">
+            <g>
+              <g id="BALL_VALVE_SHAPE" transform="translate(42.00,160.00) scale(0.40,0.40)">
+                <polyline points="-5.0,-2.5 5.0,2.5 5.0,-2.5 -5.0,2.5 -5.0,-2.5" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+                <ellipse cx="0.0" cy="-0.0" rx="2.5" ry="2.5" fill="rgb(255,255,255)" stroke="rgb(255,255,255)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+                <ellipse cx="0.0" cy="-0.0" rx="2.5" ry="2.5" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+              </g>
+            </g>
+          </g>
+          <g class="valvelabel">
+            <text x="42.0" y="165.0" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="3.0" fill="rgb(0,0,0)">HV-5152</text>
+          </g>
+        </g>
+        <g id="CV5151" class="representation-group">
+          <g id="CV5151_N1" class="representation-group"/>
+          <g id="CV5151_N2" class="representation-group"/>
+          <g class="static">
+            <g>
+              <g id="SWING_CHECK_VALVE_SHAPE" transform="translate(52.00,160.00) scale(0.40,0.40)">
+                <polyline points="-5.0,-2.5 -5.0,2.5 5.0,2.5 5.0,-2.5 -5.0,-2.5 5.0,2.5" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+                <ellipse cx="-5.0" cy="-2.5" rx="1.25" ry="1.25" fill="rgb(128,128,0)" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g class="pipingnetworksystemlabel">
+        <text x="48.0" y="174.0" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="3.0" fill="rgb(0,0,0)">N-8001</text>
+      </g>
+      <g class="pipingnetworksystemlabel">
+        <text x="48.0" y="178.0" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="3.0" fill="rgb(0,0,0)">DN 80</text>
+      </g>
+    </g>
+    <g id="Line_N5001" class="representation-group">
+      <g id="Line_N5001_S1" class="representation-group">
+        <g id="Line_N5001_S1_P1" class="representation-group">
+          <g class="static">
+            <polyline points="32.0,159.999 32.0,152.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="Line_N5001_S1_P2" class="representation-group">
+          <g class="static">
+            <polyline points="32.0,148.0 32.0,141.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="HV5153" class="representation-group">
+          <g id="HV5153_N1" class="representation-group"/>
+          <g id="HV5153_N2" class="representation-group"/>
+          <g class="static">
+            <g>
+              <g id="BALL_VALVE_SHAPE" transform="translate(32.00,150.00) rotate(270.00) scale(0.40,0.40)">
+                <polyline points="-5.0,-2.5 5.0,2.5 5.0,-2.5 -5.0,2.5 -5.0,-2.5" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+                <ellipse cx="0.0" cy="-0.0" rx="2.5" ry="2.5" fill="rgb(255,255,255)" stroke="rgb(255,255,255)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+                <ellipse cx="0.0" cy="-0.0" rx="2.5" ry="2.5" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+              </g>
+            </g>
+          </g>
+          <g class="valvelabel">
+            <text x="24.0" y="149.0" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="3.0" fill="rgb(0,0,0)">HV-5153</text>
+          </g>
+        </g>
+        <g id="Line_N5001_To" class="representation-group">
+          <g id="Line_N5001_To_N1" class="representation-group"/>
+          <g class="static">
+            <g>
+              <g id="ARROW_FOR_OUTLET_OF_ESSENTIAL_SUBSTANCES_SHAPE" transform="translate(32.00,141.00) rotate(270.00) scale(0.70,0.70)">
+                <polyline points="0.0,2.5 0.0,-2.5 5.0,-2.5 5.0,-5.0 10.0,-0.0 5.0,5.0 5.0,2.5 0.0,2.5" fill="none" stroke="rgb(0,0,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+              </g>
+            </g>
+          </g>
+          <g class="static">
+            <text x="46.0" y="138.0" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">to atmosphere</text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="D5101" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="VESSEL_WITH_DISHED_HEADS_SHAPE" transform="translate(50.00,55.00) rotate(90.00)">
+            <polyline points="10.0,12.5 10.0,-12.5" fill="none" stroke="rgb(128,0,0)" stroke-width="0.3" vector-effect="non-scaling-stroke"/>
+            <path d="M -10.00,-12.50 A 21.25,21.25 0.00 0,1 10.00,-12.50" fill="none" stroke="rgb(128,0,0)" stroke-width="0.3" vector-effect="non-scaling-stroke"/>
+            <polyline points="-10.0,-12.5 -10.0,12.5" fill="none" stroke="rgb(128,0,0)" stroke-width="0.3" vector-effect="non-scaling-stroke"/>
+            <path d="M 10.00,12.50 A 21.25,21.25 0.00 0,1 -10.00,12.50" fill="none" stroke="rgb(128,0,0)" stroke-width="0.3" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+      <g id="D5101_N1" class="representation-group">
+        <g id="D5101_N1_Node" class="representation-group"/>
+      </g>
+      <g id="D5101_N2" class="representation-group">
+        <g id="D5101_N2_Node" class="representation-group"/>
+      </g>
+      <g id="D5101_N3" class="representation-group">
+        <g id="D5101_N3_Node" class="representation-group"/>
+      </g>
+      <g id="D5101_N4" class="representation-group">
+        <g id="D5101_N4_Node" class="representation-group"/>
+      </g>
+      <g id="D5101_N5" class="representation-group">
+        <g id="D5101_N5_Node" class="representation-group"/>
+      </g>
+      <g id="D5101_N6" class="representation-group">
+        <g id="D5101_N6_Node" class="representation-group"/>
+      </g>
+      <g class="equipmenttagnamelabel">
+        <text x="50.0" y="56.0" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="4.5" fill="rgb(0,0,0)">D-5101</text>
+      </g>
+    </g>
+    <g id="P5101" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="CENTRIFUGAL_PUMP_SHAPE" transform="translate(65.00,92.00)">
+            <ellipse cx="0.0" cy="-0.0" rx="7.5" ry="7.5" fill="none" stroke="rgb(128,0,0)" stroke-width="0.3" vector-effect="non-scaling-stroke"/>
+            <polyline points="-7.5,-0.0 7.5,-0.0" fill="none" stroke="rgb(128,0,0)" stroke-width="0.3" vector-effect="non-scaling-stroke"/>
+            <polyline points="0.0,7.5 7.5,-0.0 0.0,-7.5" fill="none" stroke="rgb(128,0,0)" stroke-width="0.3" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+      <g id="P5101_N1" class="representation-group">
+        <g id="P5101_N1_Node" class="representation-group"/>
+      </g>
+      <g id="P5101_N2" class="representation-group">
+        <g id="P5101_N2_Node" class="representation-group"/>
+      </g>
+      <g class="equipmenttagnamelabel">
+        <text x="56.0" y="104.0" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="4.5" fill="rgb(0,0,0)">P-5101</text>
+      </g>
+    </g>
+    <g id="Line_DR5001" class="representation-group">
+      <g id="Line_DR5001_S1" class="representation-group">
+        <g id="Line_DR5001_S1_P1" class="representation-group">
+          <g class="static">
+            <polyline points="88.0,189.999 88.0,185.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="Line_DR5001_S1_P2" class="representation-group">
+          <g class="static">
+            <polyline points="88.0,181.0 88.0,175.001" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="XV5161" class="representation-group">
+          <g id="XV5161_N1" class="representation-group"/>
+          <g id="XV5161_N2" class="representation-group"/>
+          <g class="static">
+            <g>
+              <g id="BALL_VALVE_SHAPE" transform="translate(88.00,183.00) rotate(270.00) scale(0.40,0.40)">
+                <polyline points="-5.0,-2.5 5.0,2.5 5.0,-2.5 -5.0,2.5 -5.0,-2.5" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+                <ellipse cx="0.0" cy="-0.0" rx="2.5" ry="2.5" fill="rgb(255,255,255)" stroke="rgb(255,255,255)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+                <ellipse cx="0.0" cy="-0.0" rx="2.5" ry="2.5" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="T50P" class="representation-group">
+          <g id="T50P_N1" class="representation-group"/>
+          <g id="T50P_N2" class="representation-group"/>
+          <g id="T50P_N3" class="representation-group"/>
+          <g class="static">
+            <g/>
+          </g>
+        </g>
+      </g>
+      <g id="Line_DR5001_S2" class="representation-group">
+        <g id="Line_DR5001_S2_P1" class="representation-group">
+          <g class="static">
+            <polyline points="88.0,174.999 88.0,150.001" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="T50Q" class="representation-group">
+          <g id="T50Q_N1" class="representation-group"/>
+          <g id="T50Q_N2" class="representation-group"/>
+          <g id="T50Q_N3" class="representation-group"/>
+          <g class="static">
+            <g/>
+          </g>
+        </g>
+      </g>
+      <g id="Line_DR5001_S3" class="representation-group">
+        <g id="Line_DR5001_S3_P1" class="representation-group">
+          <g class="static">
+            <polyline points="88.0,149.999 88.0,95.001" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="T50U" class="representation-group">
+          <g id="T50U_N1" class="representation-group"/>
+          <g id="T50U_N2" class="representation-group"/>
+          <g id="T50U_N3" class="representation-group"/>
+          <g class="static">
+            <g/>
+          </g>
+        </g>
+      </g>
+      <g id="Line_DR5001_S4" class="representation-group">
+        <g id="Line_DR5001_S4_P1" class="representation-group">
+          <g class="static">
+            <polyline points="88.0,94.999 88.0,72.001" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="T50X" class="representation-group">
+          <g id="T50X_N1" class="representation-group"/>
+          <g id="T50X_N2" class="representation-group"/>
+          <g id="T50X_N3" class="representation-group"/>
+          <g class="static">
+            <g/>
+          </g>
+        </g>
+      </g>
+      <g id="Line_DR5001_S5" class="representation-group">
+        <g id="Line_DR5001_S5_P1" class="representation-group">
+          <g class="static">
+            <polyline points="88.0,71.999 88.0,40.001" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="T50R" class="representation-group">
+          <g id="T50R_N1" class="representation-group"/>
+          <g id="T50R_N2" class="representation-group"/>
+          <g id="T50R_N3" class="representation-group"/>
+          <g class="static">
+            <g/>
+          </g>
+        </g>
+      </g>
+      <g id="Line_DR5001_S6" class="representation-group">
+        <g id="Line_DR5001_S6_P1" class="representation-group">
+          <g class="static">
+            <polyline points="88.0,39.999 88.0,30.0 58.0,30.0 58.0,45.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+      <g class="pipingnetworksystemlabel">
+        <text x="99.0" y="115.0" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="3.0" fill="rgb(0,0,0)">DR-5001</text>
+      </g>
+      <g class="pipingnetworksystemlabel">
+        <text x="99.0" y="119.0" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="3.0" fill="rgb(0,0,0)">DN 150</text>
+      </g>
+    </g>
+    <g id="Line_DR5002" class="representation-group">
+      <g id="Line_DR5002_S1" class="representation-group">
+        <g id="Line_DR5002_S1_P1" class="representation-group">
+          <g class="static">
+            <polyline points="77.0,189.999 77.0,184.4995" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="Line_DR5002_S1_P2" class="representation-group">
+          <g class="static">
+            <polyline points="77.0,180.4995 77.0,175.0 87.999,175.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="PSV5131" class="representation-group">
+          <g id="PSV5131_N1" class="representation-group"/>
+          <g id="PSV5131_N2" class="representation-group"/>
+          <g class="static">
+            <g>
+              <g id="SAFETY_VALVE_SPRING_LOADED_SHAPE" transform="translate(77.00,182.50) rotate(270.00) scale(0.40,0.40)">
+                <ellipse cx="0.0" cy="2.78" rx="1.11" ry="1.11" fill="none" stroke="rgb(128,128,0)" stroke-width="0.33" vector-effect="non-scaling-stroke"/>
+                <polyline points="0.0,1.67 0.0,0.56 -2.22,0.0 2.22,-1.11 -2.22,-2.22 2.22,-3.33 0.0,-3.89 0.0,-5.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.33" vector-effect="non-scaling-stroke"/>
+                <polyline points="-4.44,5.0 4.44,0.56 4.44,5.0 -4.44,0.56 -4.44,5.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.33" vector-effect="non-scaling-stroke"/>
+                <polyline points="2.77,0.56 3.33,0.56 3.33,5.0 2.77,5.0 2.77,0.56" fill="none" stroke="rgb(128,128,0)" stroke-width="0.33" vector-effect="non-scaling-stroke"/>
+              </g>
+            </g>
+          </g>
+          <g class="safetyvalveorfittinglabel">
+            <text x="78.0" y="171.5" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="3.0" fill="rgb(0,0,0)">PSV-5131</text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Line_DR5004" class="representation-group">
+      <g id="Line_DR5004_S1" class="representation-group">
+        <g id="Line_DR5004_S1_P1" class="representation-group">
+          <g class="static">
+            <polyline points="109.999,150.0 101.0,150.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="Line_DR5004_S1_P2" class="representation-group">
+          <g class="static">
+            <polyline points="97.0,150.0 88.001,150.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="PSV5171" class="representation-group">
+          <g id="PSV5171_N1" class="representation-group"/>
+          <g id="PSV5171_N2" class="representation-group"/>
+          <g class="static">
+            <g>
+              <g id="SAFETY_VALVE_SPRING_LOADED_SHAPE" transform="translate(99.00,150.00) rotate(180.00) scale(0.40,0.40)">
+                <ellipse cx="0.0" cy="2.78" rx="1.11" ry="1.11" fill="none" stroke="rgb(128,128,0)" stroke-width="0.33" vector-effect="non-scaling-stroke"/>
+                <polyline points="0.0,1.67 0.0,0.56 -2.22,0.0 2.22,-1.11 -2.22,-2.22 2.22,-3.33 0.0,-3.89 0.0,-5.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.33" vector-effect="non-scaling-stroke"/>
+                <polyline points="-4.44,5.0 4.44,0.56 4.44,5.0 -4.44,0.56 -4.44,5.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.33" vector-effect="non-scaling-stroke"/>
+                <polyline points="2.77,0.56 3.33,0.56 3.33,5.0 2.77,5.0 2.77,0.56" fill="none" stroke="rgb(128,128,0)" stroke-width="0.33" vector-effect="non-scaling-stroke"/>
+              </g>
+            </g>
+          </g>
+          <g class="safetyvalveorfittinglabel">
+            <text x="99.0" y="144.0" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="3.0" fill="rgb(0,0,0)">PSV-5171</text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Line_DR5003" class="representation-group">
+      <g id="Line_DR5003_S1" class="representation-group">
+        <g id="Line_DR5003_S1_P1" class="representation-group">
+          <g class="static">
+            <polyline points="229.999,150.0 221.2495,150.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="Line_DR5003_S1_P2" class="representation-group">
+          <g class="static">
+            <polyline points="217.2495,150.0 208.5,150.0 208.5,40.0 148.501,40.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="PSV5173" class="representation-group">
+          <g id="PSV5173_N1" class="representation-group"/>
+          <g id="PSV5173_N2" class="representation-group"/>
+          <g class="static">
+            <g>
+              <g id="SAFETY_VALVE_SPRING_LOADED_SHAPE" transform="translate(219.25,150.00) rotate(180.00) scale(0.40,0.40)">
+                <ellipse cx="0.0" cy="2.78" rx="1.11" ry="1.11" fill="none" stroke="rgb(128,128,0)" stroke-width="0.33" vector-effect="non-scaling-stroke"/>
+                <polyline points="0.0,1.67 0.0,0.56 -2.22,0.0 2.22,-1.11 -2.22,-2.22 2.22,-3.33 0.0,-3.89 0.0,-5.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.33" vector-effect="non-scaling-stroke"/>
+                <polyline points="-4.44,5.0 4.44,0.56 4.44,5.0 -4.44,0.56 -4.44,5.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.33" vector-effect="non-scaling-stroke"/>
+                <polyline points="2.77,0.56 3.33,0.56 3.33,5.0 2.77,5.0 2.77,0.56" fill="none" stroke="rgb(128,128,0)" stroke-width="0.33" vector-effect="non-scaling-stroke"/>
+              </g>
+            </g>
+          </g>
+          <g class="safetyvalveorfittinglabel">
+            <text x="219.25" y="144.0" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="3.0" fill="rgb(0,0,0)">PSV-5173</text>
+          </g>
+        </g>
+        <g id="T50T" class="representation-group">
+          <g id="T50T_N1" class="representation-group"/>
+          <g id="T50T_N2" class="representation-group"/>
+          <g id="T50T_N3" class="representation-group"/>
+          <g class="static">
+            <g/>
+          </g>
+        </g>
+      </g>
+      <g id="Line_DR5003_S2" class="representation-group">
+        <g id="Line_DR5003_S2_P1" class="representation-group">
+          <g class="static">
+            <polyline points="148.499,40.0 88.001,40.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+      <g class="pipingnetworksystemlabel">
+        <text x="178.0" y="34.0" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="3.0" fill="rgb(0,0,0)">DR-5003</text>
+      </g>
+      <g class="pipingnetworksystemlabel">
+        <text x="178.0" y="38.0" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="3.0" fill="rgb(0,0,0)">DN 25</text>
+      </g>
+    </g>
+    <g id="Line_DR5005" class="representation-group">
+      <g id="Line_DR5005_S1" class="representation-group">
+        <g id="Line_DR5005_S1_P1" class="representation-group">
+          <g class="static">
+            <polyline points="169.999,150.0 161.2495,150.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="Line_DR5005_S1_P2" class="representation-group">
+          <g class="static">
+            <polyline points="157.2495,150.0 148.5,150.0 148.5,40.001" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="PSV5174" class="representation-group">
+          <g id="PSV5174_N1" class="representation-group"/>
+          <g id="PSV5174_N2" class="representation-group"/>
+          <g class="static">
+            <g>
+              <g id="SAFETY_VALVE_SPRING_LOADED_SHAPE" transform="translate(159.25,150.00) rotate(180.00) scale(0.40,0.40)">
+                <ellipse cx="0.0" cy="2.78" rx="1.11" ry="1.11" fill="none" stroke="rgb(128,128,0)" stroke-width="0.33" vector-effect="non-scaling-stroke"/>
+                <polyline points="0.0,1.67 0.0,0.56 -2.22,0.0 2.22,-1.11 -2.22,-2.22 2.22,-3.33 0.0,-3.89 0.0,-5.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.33" vector-effect="non-scaling-stroke"/>
+                <polyline points="-4.44,5.0 4.44,0.56 4.44,5.0 -4.44,0.56 -4.44,5.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.33" vector-effect="non-scaling-stroke"/>
+                <polyline points="2.77,0.56 3.33,0.56 3.33,5.0 2.77,5.0 2.77,0.56" fill="none" stroke="rgb(128,128,0)" stroke-width="0.33" vector-effect="non-scaling-stroke"/>
+              </g>
+            </g>
+          </g>
+          <g class="safetyvalveorfittinglabel">
+            <text x="159.25" y="144.0" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="3.0" fill="rgb(0,0,0)">PSV-5174</text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Line_BOG5002" class="representation-group">
+      <g id="Line_BOG5002_S1" class="representation-group">
+        <g id="Line_BOG5002_S1_P1" class="representation-group">
+          <g class="static">
+            <polyline points="42.0,45.0 42.0,20.0 268.5,20.0 268.5,165.0 289.999,165.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+      <g class="pipingnetworksystemlabel">
+        <text x="230.0" y="25.0" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="3.0" fill="rgb(0,0,0)">BOG-5002</text>
+      </g>
+      <g class="pipingnetworksystemlabel">
+        <text x="230.0" y="29.0" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="3.0" fill="rgb(0,0,0)">DN 100</text>
+      </g>
+    </g>
+    <g id="Line_LNG5005" class="representation-group">
+      <g id="Line_LNG5005_S1" class="representation-group">
+        <g id="Line_LNG5005_S1_P1" class="representation-group">
+          <g class="static">
+            <polyline points="45.0,65.0 45.0,77.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="Line_LNG5005_S1_P2" class="representation-group">
+          <g class="static">
+            <polyline points="45.0,81.0 45.0,92.0 57.5,92.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="HV5115" class="representation-group">
+          <g id="HV5115_N1" class="representation-group"/>
+          <g id="HV5115_N2" class="representation-group"/>
+          <g class="static">
+            <g>
+              <g id="BALL_VALVE_SHAPE" transform="translate(45.00,79.00) rotate(90.00) scale(0.40,0.40)">
+                <polyline points="-5.0,-2.5 5.0,2.5 5.0,-2.5 -5.0,2.5 -5.0,-2.5" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+                <ellipse cx="0.0" cy="-0.0" rx="2.5" ry="2.5" fill="rgb(255,255,255)" stroke="rgb(255,255,255)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+                <ellipse cx="0.0" cy="-0.0" rx="2.5" ry="2.5" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+              </g>
+            </g>
+          </g>
+          <g class="valvelabel">
+            <text x="36.0" y="79.0" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="3.0" fill="rgb(0,0,0)">HV-5115</text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Line_LNG5006" class="representation-group">
+      <g id="Line_LNG5006_S1" class="representation-group">
+        <g id="Line_LNG5006_S1_P1" class="representation-group">
+          <g class="static">
+            <polyline points="65.0,84.5 65.0,78.0 71.999,78.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="T50M" class="representation-group">
+          <g id="T50M_N1" class="representation-group"/>
+          <g id="T50M_N2" class="representation-group"/>
+          <g id="T50M_N3" class="representation-group"/>
+          <g class="static">
+            <g/>
+          </g>
+        </g>
+      </g>
+      <g id="Line_LNG5006_S2" class="representation-group">
+        <g id="Line_LNG5006_S2_P1" class="representation-group">
+          <g class="static">
+            <polyline points="72.001,78.0 75.999,78.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="T50Z" class="representation-group">
+          <g id="T50Z_N1" class="representation-group"/>
+          <g id="T50Z_N2" class="representation-group"/>
+          <g id="T50Z_N3" class="representation-group"/>
+          <g class="static">
+            <g/>
+          </g>
+        </g>
+      </g>
+      <g id="Line_LNG5006_S3" class="representation-group">
+        <g id="Line_LNG5006_S3_P1" class="representation-group">
+          <g class="static">
+            <polyline points="76.001,78.0 80.0,78.0 80.0,85.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="Line_LNG5006_S3_P2" class="representation-group">
+          <g class="static">
+            <polyline points="80.0,89.0 80.0,94.999" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="CV5116" class="representation-group">
+          <g id="CV5116_N1" class="representation-group"/>
+          <g id="CV5116_N2" class="representation-group"/>
+          <g class="static">
+            <g>
+              <g id="SWING_CHECK_VALVE_SHAPE" transform="translate(80.00,87.00) rotate(90.00) scale(0.40,0.40)">
+                <polyline points="-5.0,-2.5 -5.0,2.5 5.0,2.5 5.0,-2.5 -5.0,-2.5 5.0,2.5" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+                <ellipse cx="-5.0" cy="-2.5" rx="1.25" ry="1.25" fill="rgb(128,128,0)" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="T50Y" class="representation-group">
+          <g id="T50Y_N1" class="representation-group"/>
+          <g id="T50Y_N2" class="representation-group"/>
+          <g id="T50Y_N3" class="representation-group"/>
+          <g class="static">
+            <g/>
+          </g>
+        </g>
+      </g>
+      <g id="Line_LNG5006_S4" class="representation-group">
+        <g id="Line_LNG5006_S4_P1" class="representation-group">
+          <g class="static">
+            <polyline points="80.0,95.001 80.0,100.5" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="Line_LNG5006_S4_P2" class="representation-group">
+          <g class="static">
+            <polyline points="80.0,104.5 80.0,110.0 67.0,110.0 67.0,189.999" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="HV5117" class="representation-group">
+          <g id="HV5117_N1" class="representation-group"/>
+          <g id="HV5117_N2" class="representation-group"/>
+          <g class="static">
+            <g>
+              <g id="BALL_VALVE_SHAPE" transform="translate(80.00,102.50) rotate(90.00) scale(0.40,0.40)">
+                <polyline points="-5.0,-2.5 5.0,2.5 5.0,-2.5 -5.0,2.5 -5.0,-2.5" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+                <ellipse cx="0.0" cy="-0.0" rx="2.5" ry="2.5" fill="rgb(255,255,255)" stroke="rgb(255,255,255)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+                <ellipse cx="0.0" cy="-0.0" rx="2.5" ry="2.5" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Line_DR5006" class="representation-group">
+      <g id="Line_DR5006_S1" class="representation-group">
+        <g id="Line_DR5006_S1_P1" class="representation-group">
+          <g class="static">
+            <polyline points="80.001,95.0 82.0,95.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="Line_DR5006_S1_P2" class="representation-group">
+          <g class="static">
+            <polyline points="86.0,95.0 87.999,95.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="PSV5118" class="representation-group">
+          <g id="PSV5118_N1" class="representation-group"/>
+          <g id="PSV5118_N2" class="representation-group"/>
+          <g class="static">
+            <g>
+              <g id="SAFETY_VALVE_SPRING_LOADED_SHAPE" transform="translate(84.00,95.00) scale(0.40,0.40)">
+                <ellipse cx="0.0" cy="2.78" rx="1.11" ry="1.11" fill="none" stroke="rgb(128,128,0)" stroke-width="0.33" vector-effect="non-scaling-stroke"/>
+                <polyline points="0.0,1.67 0.0,0.56 -2.22,0.0 2.22,-1.11 -2.22,-2.22 2.22,-3.33 0.0,-3.89 0.0,-5.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.33" vector-effect="non-scaling-stroke"/>
+                <polyline points="-4.44,5.0 4.44,0.56 4.44,5.0 -4.44,0.56 -4.44,5.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.33" vector-effect="non-scaling-stroke"/>
+                <polyline points="2.77,0.56 3.33,0.56 3.33,5.0 2.77,5.0 2.77,0.56" fill="none" stroke="rgb(128,128,0)" stroke-width="0.33" vector-effect="non-scaling-stroke"/>
+              </g>
+            </g>
+          </g>
+          <g class="safetyvalveorfittinglabel">
+            <text x="97.0" y="97.5" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="3.0" fill="rgb(0,0,0)">PSV-5118</text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Line_DR5007" class="representation-group">
+      <g id="Line_DR5007_S1" class="representation-group">
+        <g id="Line_DR5007_S1_P1" class="representation-group">
+          <g class="static">
+            <polyline points="76.0,77.999 76.0,72.0 80.0,72.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="Line_DR5007_S1_P2" class="representation-group">
+          <g class="static">
+            <polyline points="84.0,72.0 87.999,72.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="HV5119" class="representation-group">
+          <g id="HV5119_N1" class="representation-group"/>
+          <g id="HV5119_N2" class="representation-group"/>
+          <g class="static">
+            <g>
+              <g id="BALL_VALVE_SHAPE" transform="translate(82.00,72.00) scale(0.40,0.40)">
+                <polyline points="-5.0,-2.5 5.0,2.5 5.0,-2.5 -5.0,2.5 -5.0,-2.5" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+                <ellipse cx="0.0" cy="-0.0" rx="2.5" ry="2.5" fill="rgb(255,255,255)" stroke="rgb(255,255,255)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+                <ellipse cx="0.0" cy="-0.0" rx="2.5" ry="2.5" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+              </g>
+            </g>
+          </g>
+          <g class="valvelabel">
+            <text x="97.0" y="72.0" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="3.0" fill="rgb(0,0,0)">HV-5119</text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Line_LNG5007" class="representation-group">
+      <g id="Line_LNG5007_S1" class="representation-group">
+        <g id="Line_LNG5007_S1_P1" class="representation-group">
+          <g class="static">
+            <polyline points="72.0,77.999 72.0,68.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="Line_LNG5007_S1_P2" class="representation-group">
+          <g class="static">
+            <polyline points="72.0,64.0 72.0,55.0 65.0,55.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+        <g id="FO5118" class="representation-group">
+          <g id="FO5118_N1" class="representation-group"/>
+          <g id="FO5118_N2" class="representation-group"/>
+          <g class="static">
+            <g>
+              <g id="RESTRICTION_ORIFICE_SHAPE" transform="translate(72.00,66.00) rotate(270.00) scale(0.40,0.40)">
+                <polyline points="-5.0,0.0 5.0,0.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.35" vector-effect="non-scaling-stroke"/>
+                <polyline points="-0.9,-3.5 -0.9,3.5" fill="none" stroke="rgb(0,0,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+                <polyline points="0.9,-3.5 0.9,3.5" fill="none" stroke="rgb(0,0,0)" stroke-width="0.5" vector-effect="non-scaling-stroke"/>
+              </g>
+            </g>
+          </g>
+          <g class="customlabel">
+            <text x="63.0" y="70.0" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="3.0" fill="rgb(0,0,0)">FO-5118</text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Inst_UZ5101" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="INSTRUMENTATION_BUBBLE_SHAPE_CENTRAL" transform="translate(28.00,178.00)">
+            <polyline points="-3.0,-3.75 3.0,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M -3.00,3.75 A 3.75,3.75 0.00 0,1 -3.00,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-3.0,3.75 3.0,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M 3.00,-3.75 A 3.75,3.75 0.00 0,1 3.00,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-6.75,-0.0 6.75,-0.0" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+      <g id="Inst_UZ5101_Signal" class="representation-group">
+        <g class="static">
+          <polyline points="28.0,181.75 28.0,182.8" fill="none" stroke="rgb(0,0,0)" stroke-width="0.25" vector-effect="non-scaling-stroke" stroke-dasharray="2.5,0.5"/>
+        </g>
+      </g>
+      <g class="processinstrumentationfunctionlabel">
+        <text x="28.0" y="176.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">UZ</text>
+        <text x="28.0" y="179.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">5101</text>
+      </g>
+    </g>
+    <g id="Inst_UZ5101_Actuator" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="CONTROLLED_ACTUATOR_SHAPE" transform="translate(28.00,190.00) rotate(270.00) scale(0.40,0.40)">
+            <ellipse cx="13.5" cy="-0.0" rx="4.5" ry="4.5" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+            <polyline points="9.0,-0.0 0.0,-0.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Inst_ZSC5101" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="INSTRUMENTATION_BUBBLE_SHAPE_CENTRAL" transform="translate(39.00,205.00)">
+            <polyline points="-3.0,-3.75 3.0,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M -3.00,3.75 A 3.75,3.75 0.00 0,1 -3.00,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-3.0,3.75 3.0,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M 3.00,-3.75 A 3.75,3.75 0.00 0,1 3.00,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-6.75,-0.0 6.75,-0.0" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+      <g id="Inst_ZSC5101_MeasuringLine" class="representation-group">
+        <g class="static">
+          <polyline points="28.0,191.5 28.0,193.5 39.0,193.5 39.0,201.25" fill="none" stroke="rgb(0,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+        </g>
+      </g>
+      <g class="processinstrumentationfunctionlabel">
+        <text x="39.0" y="203.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">ZSC</text>
+        <text x="39.0" y="206.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">5101</text>
+      </g>
+    </g>
+    <g id="Inst_PDI5102" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="INSTRUMENTATION_BUBBLE_SHAPE_CENTRAL" transform="translate(56.00,202.00)">
+            <polyline points="-3.0,-3.75 3.0,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M -3.00,3.75 A 3.75,3.75 0.00 0,1 -3.00,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-3.0,3.75 3.0,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M 3.00,-3.75 A 3.75,3.75 0.00 0,1 3.00,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-6.75,-0.0 6.75,-0.0" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+      <g id="Inst_PDI5102_MeasuringLine" class="representation-group">
+        <g class="static">
+          <polyline points="56.0,190.0 56.0,198.25" fill="none" stroke="rgb(0,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+        </g>
+      </g>
+      <g class="processinstrumentationfunctionlabel">
+        <text x="56.0" y="200.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">PDI</text>
+        <text x="56.0" y="203.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">5102</text>
+      </g>
+    </g>
+    <g id="Inst_PZT5103" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="INSTRUMENTATION_BUBBLE_SHAPE_CENTRAL" transform="translate(124.00,202.00)">
+            <polyline points="-3.0,-3.75 3.0,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M -3.00,3.75 A 3.75,3.75 0.00 0,1 -3.00,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-3.0,3.75 3.0,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M 3.00,-3.75 A 3.75,3.75 0.00 0,1 3.00,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-6.75,-0.0 6.75,-0.0" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+      <g id="Inst_PZT5103_MeasuringLine" class="representation-group">
+        <g class="static">
+          <polyline points="124.0,190.0 124.0,198.25" fill="none" stroke="rgb(0,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+        </g>
+      </g>
+      <g class="processinstrumentationfunctionlabel">
+        <text x="124.0" y="200.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">PZT</text>
+        <text x="124.0" y="203.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">5103</text>
+      </g>
+    </g>
+    <g id="Inst_TI5104" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="INSTRUMENTATION_BUBBLE_SHAPE_CENTRAL" transform="translate(146.00,202.00)">
+            <polyline points="-3.0,-3.75 3.0,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M -3.00,3.75 A 3.75,3.75 0.00 0,1 -3.00,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-3.0,3.75 3.0,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M 3.00,-3.75 A 3.75,3.75 0.00 0,1 3.00,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-6.75,-0.0 6.75,-0.0" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+      <g id="Inst_TI5104_MeasuringLine" class="representation-group">
+        <g class="static">
+          <polyline points="146.0,190.0 146.0,198.25" fill="none" stroke="rgb(0,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+        </g>
+      </g>
+      <g class="processinstrumentationfunctionlabel">
+        <text x="146.0" y="200.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">TI</text>
+        <text x="146.0" y="203.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">5104</text>
+      </g>
+    </g>
+    <g id="Inst_HS5121" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="INSTRUMENTATION_BUBBLE_SHAPE_CENTRAL" transform="translate(124.00,168.00)">
+            <polyline points="-3.0,-3.75 3.0,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M -3.00,3.75 A 3.75,3.75 0.00 0,1 -3.00,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-3.0,3.75 3.0,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M 3.00,-3.75 A 3.75,3.75 0.00 0,1 3.00,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-6.75,-0.0 6.75,-0.0" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+      <g id="Inst_HS5121_Signal" class="representation-group">
+        <g class="static">
+          <polyline points="117.25,168.0 117.2,168.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.25" vector-effect="non-scaling-stroke" stroke-dasharray="2.5,0.5"/>
+        </g>
+      </g>
+      <g class="processinstrumentationfunctionlabel">
+        <text x="124.0" y="166.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">HS</text>
+        <text x="124.0" y="169.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">5121</text>
+      </g>
+    </g>
+    <g id="Inst_HS5121_Actuator" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="CONTROLLED_ACTUATOR_SHAPE" transform="translate(110.00,168.00) scale(0.40,0.40)">
+            <ellipse cx="13.5" cy="-0.0" rx="4.5" ry="4.5" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+            <polyline points="9.0,-0.0 0.0,-0.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Inst_HS5124" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="INSTRUMENTATION_BUBBLE_SHAPE_CENTRAL" transform="translate(155.00,168.00)">
+            <polyline points="-3.0,-3.75 3.0,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M -3.00,3.75 A 3.75,3.75 0.00 0,1 -3.00,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-3.0,3.75 3.0,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M 3.00,-3.75 A 3.75,3.75 0.00 0,1 3.00,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-6.75,-0.0 6.75,-0.0" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+      <g id="Inst_HS5124_Signal" class="representation-group">
+        <g class="static">
+          <polyline points="161.75,168.0 162.8,168.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.25" vector-effect="non-scaling-stroke" stroke-dasharray="2.5,0.5"/>
+        </g>
+      </g>
+      <g class="processinstrumentationfunctionlabel">
+        <text x="155.0" y="166.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">HS</text>
+        <text x="155.0" y="169.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">5124</text>
+      </g>
+    </g>
+    <g id="Inst_HS5124_Actuator" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="CONTROLLED_ACTUATOR_SHAPE" transform="translate(170.00,168.00) rotate(180.00) scale(0.40,0.40)">
+            <ellipse cx="13.5" cy="-0.0" rx="4.5" ry="4.5" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+            <polyline points="9.0,-0.0 0.0,-0.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Inst_HS5123" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="INSTRUMENTATION_BUBBLE_SHAPE_CENTRAL" transform="translate(215.00,181.00)">
+            <polyline points="-3.0,-3.75 3.0,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M -3.00,3.75 A 3.75,3.75 0.00 0,1 -3.00,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-3.0,3.75 3.0,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M 3.00,-3.75 A 3.75,3.75 0.00 0,1 3.00,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-6.75,-0.0 6.75,-0.0" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+      <g id="Inst_HS5123_Signal" class="representation-group">
+        <g class="static">
+          <polyline points="221.75,181.0 222.8,181.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.25" vector-effect="non-scaling-stroke" stroke-dasharray="2.5,0.5"/>
+        </g>
+      </g>
+      <g class="processinstrumentationfunctionlabel">
+        <text x="215.0" y="179.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">HS</text>
+        <text x="215.0" y="182.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">5123</text>
+      </g>
+    </g>
+    <g id="Inst_HS5123_Actuator" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="CONTROLLED_ACTUATOR_SHAPE" transform="translate(230.00,181.00) rotate(180.00) scale(0.40,0.40)">
+            <ellipse cx="13.5" cy="-0.0" rx="4.5" ry="4.5" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+            <polyline points="9.0,-0.0 0.0,-0.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Inst_HS5125" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="INSTRUMENTATION_BUBBLE_SHAPE_CENTRAL" transform="translate(258.00,186.00)">
+            <polyline points="-3.0,-3.75 3.0,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M -3.00,3.75 A 3.75,3.75 0.00 0,1 -3.00,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-3.0,3.75 3.0,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M 3.00,-3.75 A 3.75,3.75 0.00 0,1 3.00,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-6.75,-0.0 6.75,-0.0" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+      <g id="Inst_HS5125_Signal" class="representation-group">
+        <g class="static">
+          <polyline points="258.0,182.25 258.0,179.2" fill="none" stroke="rgb(0,0,0)" stroke-width="0.25" vector-effect="non-scaling-stroke" stroke-dasharray="2.5,0.5"/>
+        </g>
+      </g>
+      <g class="processinstrumentationfunctionlabel">
+        <text x="258.0" y="184.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">HS</text>
+        <text x="258.0" y="187.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">5125</text>
+      </g>
+    </g>
+    <g id="Inst_HS5125_Actuator" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="CONTROLLED_ACTUATOR_SHAPE" transform="translate(258.00,172.00) rotate(90.00) scale(0.40,0.40)">
+            <ellipse cx="13.5" cy="-0.0" rx="4.5" ry="4.5" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+            <polyline points="9.0,-0.0 0.0,-0.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Inst_ZSC5123" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="INSTRUMENTATION_BUBBLE_SHAPE_CENTRAL" transform="translate(242.00,187.00)">
+            <polyline points="-3.0,-3.75 3.0,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M -3.00,3.75 A 3.75,3.75 0.00 0,1 -3.00,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-3.0,3.75 3.0,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M 3.00,-3.75 A 3.75,3.75 0.00 0,1 3.00,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-6.75,-0.0 6.75,-0.0" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+      <g id="Inst_ZSC5123_MeasuringLine" class="representation-group">
+        <g class="static">
+          <polyline points="230.0,181.0 235.0,181.0 235.0,187.0 235.25,187.0" fill="none" stroke="rgb(0,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+        </g>
+      </g>
+      <g class="processinstrumentationfunctionlabel">
+        <text x="242.0" y="185.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">ZSC</text>
+        <text x="242.0" y="188.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">5123</text>
+      </g>
+    </g>
+    <g id="Inst_ZSC5125" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="INSTRUMENTATION_BUBBLE_SHAPE_CENTRAL" transform="translate(278.00,181.00)">
+            <polyline points="-3.0,-3.75 3.0,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M -3.00,3.75 A 3.75,3.75 0.00 0,1 -3.00,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-3.0,3.75 3.0,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M 3.00,-3.75 A 3.75,3.75 0.00 0,1 3.00,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-6.75,-0.0 6.75,-0.0" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+      <g id="Inst_ZSC5125_MeasuringLine" class="representation-group">
+        <g class="static">
+          <polyline points="260.0,173.0 260.0,175.0 278.0,175.0 278.0,177.25" fill="none" stroke="rgb(0,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+        </g>
+      </g>
+      <g class="processinstrumentationfunctionlabel">
+        <text x="278.0" y="179.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">ZSC</text>
+        <text x="278.0" y="182.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">5125</text>
+      </g>
+    </g>
+    <g id="Inst_HS5122" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="INSTRUMENTATION_BUBBLE_SHAPE_CENTRAL" transform="translate(305.00,150.00)">
+            <polyline points="-3.0,-3.75 3.0,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M -3.00,3.75 A 3.75,3.75 0.00 0,1 -3.00,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-3.0,3.75 3.0,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M 3.00,-3.75 A 3.75,3.75 0.00 0,1 3.00,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-6.75,-0.0 6.75,-0.0" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+      <g id="Inst_HS5122_Signal" class="representation-group">
+        <g class="static">
+          <polyline points="298.25,150.0 297.2,150.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.25" vector-effect="non-scaling-stroke" stroke-dasharray="2.5,0.5"/>
+        </g>
+      </g>
+      <g class="processinstrumentationfunctionlabel">
+        <text x="305.0" y="148.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">HS</text>
+        <text x="305.0" y="151.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">5122</text>
+      </g>
+    </g>
+    <g id="Inst_HS5122_Actuator" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="CONTROLLED_ACTUATOR_SHAPE" transform="translate(290.00,150.00) scale(0.40,0.40)">
+            <ellipse cx="13.5" cy="-0.0" rx="4.5" ry="4.5" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+            <polyline points="9.0,-0.0 0.0,-0.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Inst_ZSO5122" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="INSTRUMENTATION_BUBBLE_SHAPE_CENTRAL" transform="translate(279.00,150.00)">
+            <polyline points="-3.0,-3.75 3.0,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M -3.00,3.75 A 3.75,3.75 0.00 0,1 -3.00,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-3.0,3.75 3.0,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M 3.00,-3.75 A 3.75,3.75 0.00 0,1 3.00,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-6.75,-0.0 6.75,-0.0" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+      <g id="Inst_ZSO5122_MeasuringLine" class="representation-group">
+        <g class="static">
+          <polyline points="288.0,150.0 285.75,150.0" fill="none" stroke="rgb(0,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+        </g>
+      </g>
+      <g class="processinstrumentationfunctionlabel">
+        <text x="279.0" y="148.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">ZSO</text>
+        <text x="279.0" y="151.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">5122</text>
+      </g>
+    </g>
+    <g id="Inst_AI5126" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="INSTRUMENTATION_BUBBLE_SHAPE_CENTRAL" transform="translate(279.00,138.00)">
+            <polyline points="-3.0,-3.75 3.0,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M -3.00,3.75 A 3.75,3.75 0.00 0,1 -3.00,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-3.0,3.75 3.0,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M 3.00,-3.75 A 3.75,3.75 0.00 0,1 3.00,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-6.75,-0.0 6.75,-0.0" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+      <g id="Inst_AI5126_MeasuringLine" class="representation-group">
+        <g class="static">
+          <polyline points="290.0,138.0 285.75,138.0" fill="none" stroke="rgb(0,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+        </g>
+      </g>
+      <g class="processinstrumentationfunctionlabel">
+        <text x="279.0" y="136.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">AI</text>
+        <text x="279.0" y="139.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">5126</text>
+      </g>
+    </g>
+    <g id="Inst_HS5161" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="INSTRUMENTATION_BUBBLE_SHAPE_CENTRAL" transform="translate(100.00,183.00)">
+            <polyline points="-3.0,-3.75 3.0,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M -3.00,3.75 A 3.75,3.75 0.00 0,1 -3.00,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-3.0,3.75 3.0,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M 3.00,-3.75 A 3.75,3.75 0.00 0,1 3.00,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-6.75,-0.0 6.75,-0.0" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+      <g id="Inst_HS5161_Signal" class="representation-group">
+        <g class="static">
+          <polyline points="93.25,183.0 95.2,183.0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.25" vector-effect="non-scaling-stroke" stroke-dasharray="2.5,0.5"/>
+        </g>
+      </g>
+      <g class="processinstrumentationfunctionlabel">
+        <text x="100.0" y="181.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">HS</text>
+        <text x="100.0" y="184.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">5161</text>
+      </g>
+    </g>
+    <g id="Inst_HS5161_Actuator" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="CONTROLLED_ACTUATOR_SHAPE" transform="translate(88.00,183.00) scale(0.40,0.40)">
+            <ellipse cx="13.5" cy="-0.0" rx="4.5" ry="4.5" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+            <polyline points="9.0,-0.0 0.0,-0.0" fill="none" stroke="rgb(128,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Inst_XS5100" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="INSTRUMENTATION_BUBBLE_SHAPE_CENTRAL" transform="translate(22.00,28.00)">
+            <polyline points="-3.0,-3.75 3.0,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M -3.00,3.75 A 3.75,3.75 0.00 0,1 -3.00,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-3.0,3.75 3.0,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M 3.00,-3.75 A 3.75,3.75 0.00 0,1 3.00,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-6.75,-0.0 6.75,-0.0" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+      <g class="processinstrumentationfunctionlabel">
+        <text x="22.0" y="26.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">XS</text>
+        <text x="22.0" y="29.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">5100</text>
+      </g>
+    </g>
+    <g id="Inst_HS5100A" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="INSTRUMENTATION_BUBBLE_SHAPE_CENTRAL" transform="translate(24.00,222.00)">
+            <polyline points="-3.0,-3.75 3.0,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M -3.00,3.75 A 3.75,3.75 0.00 0,1 -3.00,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-3.0,3.75 3.0,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M 3.00,-3.75 A 3.75,3.75 0.00 0,1 3.00,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-6.75,-0.0 6.75,-0.0" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+      <g class="processinstrumentationfunctionlabel">
+        <text x="24.0" y="220.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">HS</text>
+        <text x="24.0" y="223.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">5100A</text>
+      </g>
+    </g>
+    <g id="Inst_HS5100B" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="INSTRUMENTATION_BUBBLE_SHAPE_CENTRAL" transform="translate(42.00,222.00)">
+            <polyline points="-3.0,-3.75 3.0,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M -3.00,3.75 A 3.75,3.75 0.00 0,1 -3.00,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-3.0,3.75 3.0,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M 3.00,-3.75 A 3.75,3.75 0.00 0,1 3.00,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-6.75,-0.0 6.75,-0.0" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+      <g class="processinstrumentationfunctionlabel">
+        <text x="42.0" y="220.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">HS</text>
+        <text x="42.0" y="223.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">5100B</text>
+      </g>
+    </g>
+    <g id="Inst_HS5100C" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="INSTRUMENTATION_BUBBLE_SHAPE_CENTRAL" transform="translate(60.00,222.00)">
+            <polyline points="-3.0,-3.75 3.0,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M -3.00,3.75 A 3.75,3.75 0.00 0,1 -3.00,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-3.0,3.75 3.0,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M 3.00,-3.75 A 3.75,3.75 0.00 0,1 3.00,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-6.75,-0.0 6.75,-0.0" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+      <g class="processinstrumentationfunctionlabel">
+        <text x="60.0" y="220.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">HS</text>
+        <text x="60.0" y="223.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">5100C</text>
+      </g>
+    </g>
+    <g id="Inst_HS5107A" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="INSTRUMENTATION_BUBBLE_SHAPE_CENTRAL" transform="translate(78.00,222.00)">
+            <polyline points="-3.0,-3.75 3.0,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M -3.00,3.75 A 3.75,3.75 0.00 0,1 -3.00,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-3.0,3.75 3.0,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M 3.00,-3.75 A 3.75,3.75 0.00 0,1 3.00,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-6.75,-0.0 6.75,-0.0" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+      <g class="processinstrumentationfunctionlabel">
+        <text x="78.0" y="220.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">HS</text>
+        <text x="78.0" y="223.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">5107A</text>
+      </g>
+    </g>
+    <g id="Inst_HS5107B" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="INSTRUMENTATION_BUBBLE_SHAPE_CENTRAL" transform="translate(96.00,222.00)">
+            <polyline points="-3.0,-3.75 3.0,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M -3.00,3.75 A 3.75,3.75 0.00 0,1 -3.00,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-3.0,3.75 3.0,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M 3.00,-3.75 A 3.75,3.75 0.00 0,1 3.00,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-6.75,-0.0 6.75,-0.0" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+      <g class="processinstrumentationfunctionlabel">
+        <text x="96.0" y="220.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">HS</text>
+        <text x="96.0" y="223.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">5107B</text>
+      </g>
+    </g>
+    <g id="Inst_HS5107C" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="INSTRUMENTATION_BUBBLE_SHAPE_CENTRAL" transform="translate(114.00,222.00)">
+            <polyline points="-3.0,-3.75 3.0,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M -3.00,3.75 A 3.75,3.75 0.00 0,1 -3.00,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-3.0,3.75 3.0,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M 3.00,-3.75 A 3.75,3.75 0.00 0,1 3.00,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-6.75,-0.0 6.75,-0.0" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+      <g class="processinstrumentationfunctionlabel">
+        <text x="114.0" y="220.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">HS</text>
+        <text x="114.0" y="223.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">5107C</text>
+      </g>
+    </g>
+    <g id="Inst_XS5108" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="INSTRUMENTATION_BUBBLE_SHAPE_CENTRAL" transform="translate(132.00,222.00)">
+            <polyline points="-3.0,-3.75 3.0,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M -3.00,3.75 A 3.75,3.75 0.00 0,1 -3.00,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-3.0,3.75 3.0,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M 3.00,-3.75 A 3.75,3.75 0.00 0,1 3.00,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-6.75,-0.0 6.75,-0.0" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+      <g class="processinstrumentationfunctionlabel">
+        <text x="132.0" y="220.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">XS</text>
+        <text x="132.0" y="223.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">5108</text>
+      </g>
+    </g>
+    <g id="Inst_XA5130A" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="INSTRUMENTATION_BUBBLE_SHAPE_CENTRAL" transform="translate(150.00,222.00)">
+            <polyline points="-3.0,-3.75 3.0,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M -3.00,3.75 A 3.75,3.75 0.00 0,1 -3.00,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-3.0,3.75 3.0,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M 3.00,-3.75 A 3.75,3.75 0.00 0,1 3.00,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-6.75,-0.0 6.75,-0.0" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+      <g class="processinstrumentationfunctionlabel">
+        <text x="150.0" y="220.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">XA</text>
+        <text x="150.0" y="223.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">5130A</text>
+      </g>
+    </g>
+    <g id="Inst_XA5130B" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="INSTRUMENTATION_BUBBLE_SHAPE_CENTRAL" transform="translate(168.00,222.00)">
+            <polyline points="-3.0,-3.75 3.0,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M -3.00,3.75 A 3.75,3.75 0.00 0,1 -3.00,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-3.0,3.75 3.0,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M 3.00,-3.75 A 3.75,3.75 0.00 0,1 3.00,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-6.75,-0.0 6.75,-0.0" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+      <g class="processinstrumentationfunctionlabel">
+        <text x="168.0" y="220.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">XA</text>
+        <text x="168.0" y="223.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">5130B</text>
+      </g>
+    </g>
+    <g id="Inst_UY5135" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="INSTRUMENTATION_BUBBLE_SHAPE_CENTRAL" transform="translate(24.00,236.00)">
+            <polyline points="-3.0,-3.75 3.0,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M -3.00,3.75 A 3.75,3.75 0.00 0,1 -3.00,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-3.0,3.75 3.0,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M 3.00,-3.75 A 3.75,3.75 0.00 0,1 3.00,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-6.75,-0.0 6.75,-0.0" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+      <g class="processinstrumentationfunctionlabel">
+        <text x="24.0" y="234.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">UY</text>
+        <text x="24.0" y="237.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">5135</text>
+      </g>
+    </g>
+    <g id="Inst_UY5136" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="INSTRUMENTATION_BUBBLE_SHAPE_CENTRAL" transform="translate(42.00,236.00)">
+            <polyline points="-3.0,-3.75 3.0,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M -3.00,3.75 A 3.75,3.75 0.00 0,1 -3.00,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-3.0,3.75 3.0,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M 3.00,-3.75 A 3.75,3.75 0.00 0,1 3.00,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-6.75,-0.0 6.75,-0.0" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+      <g class="processinstrumentationfunctionlabel">
+        <text x="42.0" y="234.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">UY</text>
+        <text x="42.0" y="237.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">5136</text>
+      </g>
+    </g>
+    <g id="Inst_UY5137" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="INSTRUMENTATION_BUBBLE_SHAPE_CENTRAL" transform="translate(60.00,236.00)">
+            <polyline points="-3.0,-3.75 3.0,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M -3.00,3.75 A 3.75,3.75 0.00 0,1 -3.00,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-3.0,3.75 3.0,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M 3.00,-3.75 A 3.75,3.75 0.00 0,1 3.00,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-6.75,-0.0 6.75,-0.0" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+      <g class="processinstrumentationfunctionlabel">
+        <text x="60.0" y="234.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">UY</text>
+        <text x="60.0" y="237.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">5137</text>
+      </g>
+    </g>
+    <g id="Inst_UY5138" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="INSTRUMENTATION_BUBBLE_SHAPE_CENTRAL" transform="translate(78.00,236.00)">
+            <polyline points="-3.0,-3.75 3.0,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M -3.00,3.75 A 3.75,3.75 0.00 0,1 -3.00,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-3.0,3.75 3.0,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M 3.00,-3.75 A 3.75,3.75 0.00 0,1 3.00,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-6.75,-0.0 6.75,-0.0" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+      <g class="processinstrumentationfunctionlabel">
+        <text x="78.0" y="234.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">UY</text>
+        <text x="78.0" y="237.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">5138</text>
+      </g>
+    </g>
+    <g id="Inst_HS5109" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="INSTRUMENTATION_BUBBLE_SHAPE_CENTRAL" transform="translate(96.00,236.00)">
+            <polyline points="-3.0,-3.75 3.0,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M -3.00,3.75 A 3.75,3.75 0.00 0,1 -3.00,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-3.0,3.75 3.0,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M 3.00,-3.75 A 3.75,3.75 0.00 0,1 3.00,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-6.75,-0.0 6.75,-0.0" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+      <g class="processinstrumentationfunctionlabel">
+        <text x="96.0" y="234.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">HS</text>
+        <text x="96.0" y="237.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">5109</text>
+      </g>
+    </g>
+    <g id="Inst_PI5105" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="INSTRUMENTATION_BUBBLE_SHAPE_CENTRAL" transform="translate(352.00,170.00)">
+            <polyline points="-3.0,-3.75 3.0,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M -3.00,3.75 A 3.75,3.75 0.00 0,1 -3.00,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-3.0,3.75 3.0,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M 3.00,-3.75 A 3.75,3.75 0.00 0,1 3.00,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-6.75,-0.0 6.75,-0.0" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+      <g id="Inst_PI5105_MeasuringLine" class="representation-group">
+        <g class="static">
+          <polyline points="352.0,182.0 352.0,173.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+        </g>
+      </g>
+      <g class="processinstrumentationfunctionlabel">
+        <text x="352.0" y="168.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">PI</text>
+        <text x="352.0" y="171.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">5105</text>
+      </g>
+    </g>
+    <g id="Inst_TI5106" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="INSTRUMENTATION_BUBBLE_SHAPE_CENTRAL" transform="translate(374.00,170.00)">
+            <polyline points="-3.0,-3.75 3.0,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M -3.00,3.75 A 3.75,3.75 0.00 0,1 -3.00,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-3.0,3.75 3.0,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M 3.00,-3.75 A 3.75,3.75 0.00 0,1 3.00,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-6.75,-0.0 6.75,-0.0" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+      <g id="Inst_TI5106_MeasuringLine" class="representation-group">
+        <g class="static">
+          <polyline points="374.0,182.0 374.0,173.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+        </g>
+      </g>
+      <g class="processinstrumentationfunctionlabel">
+        <text x="374.0" y="168.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">TI</text>
+        <text x="374.0" y="171.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">5106</text>
+      </g>
+    </g>
+    <g id="Inst_LIC5111" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="INSTRUMENTATION_BUBBLE_SHAPE_CENTRAL" transform="translate(20.00,66.00)">
+            <polyline points="-3.0,-3.75 3.0,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M -3.00,3.75 A 3.75,3.75 0.00 0,1 -3.00,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-3.0,3.75 3.0,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M 3.00,-3.75 A 3.75,3.75 0.00 0,1 3.00,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-6.75,-0.0 6.75,-0.0" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+      <g id="Inst_LIC5111_MeasuringLine" class="representation-group">
+        <g class="static">
+          <polyline points="35.0,59.0 35.0,66.0 26.75,66.0" fill="none" stroke="rgb(0,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+        </g>
+      </g>
+      <g class="processinstrumentationfunctionlabel">
+        <text x="20.0" y="64.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">LIC</text>
+        <text x="20.0" y="67.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">5111</text>
+      </g>
+    </g>
+    <g id="Inst_LZT5112" class="representation-group">
+      <g class="static">
+        <g>
+          <g id="INSTRUMENTATION_BUBBLE_SHAPE_CENTRAL" transform="translate(20.00,44.00)">
+            <polyline points="-3.0,-3.75 3.0,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M -3.00,3.75 A 3.75,3.75 0.00 0,1 -3.00,-3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-3.0,3.75 3.0,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <path d="M 3.00,-3.75 A 3.75,3.75 0.00 0,1 3.00,3.75" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+            <polyline points="-6.75,-0.0 6.75,-0.0" fill="none" stroke="rgb(0,128,0)" stroke-width="0.2" vector-effect="non-scaling-stroke"/>
+          </g>
+        </g>
+      </g>
+      <g id="Inst_LZT5112_MeasuringLine" class="representation-group">
+        <g class="static">
+          <polyline points="35.0,51.0 35.0,44.0 26.75,44.0" fill="none" stroke="rgb(0,128,0)" stroke-width="0.25" vector-effect="non-scaling-stroke"/>
+        </g>
+      </g>
+      <g class="processinstrumentationfunctionlabel">
+        <text x="20.0" y="42.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">LZT</text>
+        <text x="20.0" y="45.6" text-anchor="middle" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">5112</text>
+      </g>
+    </g>
+    <g class="static" id="Note1">
+      <text x="12.0" y="246.5" text-anchor="start" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">Berth 2 arms on the platform, south to north: LA-5101 liquid, LA-5102 vapour, LA-5103 hybrid, LA-5104 liquid (S-01); drawn left to right L, L, H, V.</text>
+    </g>
+    <g class="static" id="Note2">
+      <text x="12.0" y="250.0" text-anchor="start" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">16 inch, ~4,000 m3/h per liquid arm; the hybrid runs as the third liquid arm or, in line-up (b), the second vapour path; the vapour arm LA-5102 is needed for every transfer (D-032).</text>
+    </g>
+    <g class="static" id="Note3">
+      <text x="12.0" y="253.5" text-anchor="start" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">ESD-2 trips ESD-1 at once (C&amp;E I-503 into I-501); the ERS valves (two ball valves either side of the emergency release coupler) close 5 s later by I-507, not on ESD-1;</text>
+    </g>
+    <g class="static" id="Note4">
+      <text x="12.0" y="257.0" text-anchor="start" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">ERS valves de-energise-to-trip on 2oo2 solenoids, channels A / B (XA-5130A / B, either lost: ESD-1); couplers UY-5135..5138 release on ERS closed or timeout (D-034).</text>
+    </g>
+    <g class="static" id="Note5">
+      <text x="12.0" y="260.5" text-anchor="start" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">Thermal relief to D-5101: PSV-5171 / 5173 / 5174 per arm section 8.0 barg (below the carrier, D-039), PSV-5118 15.0 barg. Vapour arm first, last off (S-01).</text>
+    </g>
+    <g class="static" id="Note6">
+      <text x="12.0" y="264.0" text-anchor="start" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">D-5101 sits at the platform low point (drawn above the header). Its vent BOG-5002 has no valve: it is the drum's relief path and stays open.</text>
+    </g>
+    <g class="static" id="Note7">
+      <text x="12.0" y="267.5" text-anchor="start" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">XV-5123 / XV-5125: open-command permissives, each opens only with the other proven closed (ZSC-5123 / ZSC-5125, C&amp;E I-504 / I-505), never trip an open valve; key interlock at the arm (vendor).</text>
+    </g>
+    <g class="static" id="Note8">
+      <text x="12.0" y="271.0" text-anchor="start" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">Arm purge (D-026): before loading the N2 goes into the carrier's manifold (S-01); after loading the arms drain to D-5101 and the purge N2 leaves by the drum vent BOG-5002 into the vapour return.</text>
+    </g>
+    <g class="static" id="Note9">
+      <text x="12.0" y="274.5" text-anchor="start" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">HV-5119 normally closed (pump vent/drain). BOG-5003, DR-5002 to DR-5007, LNG-5005 to LNG-5007, N-5001: see the line list. Arm vents, drains, vapour arm N2 test point: arm package; O2: AI-5126.</text>
+    </g>
+    <g class="static" id="Note10">
+      <text x="12.0" y="278.0" text-anchor="start" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">Air failure: PZT-8123A/B/C (P-08, C&amp;E I-804) trip ESD-1 first; XV-5101 and the arm isolations hold on accumulators, closing at their set speed; ERS valves hydraulic (HPU).</text>
+    </g>
+    <g class="static" id="Note11">
+      <text x="12.0" y="281.5" text-anchor="start" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">O2 above 5 vol % (AI-5126): C&amp;E I-514 closes XV-5122 / XV-5125 with XV-5101 proven closed (ZSC-5101), else ESD-1 (I-501); ZSO-5122 not open in a transfer: ESD-1.</text>
+    </g>
+    <g class="static" id="Note12">
+      <text x="12.0" y="285.0" text-anchor="start" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">ESD-1: HS-5100A/B/C, XS-5108, XA-5130A / B; ESD-2: HS-5107A/B/C. XS-5100 'no carrier' mode ends on an arm unstowed or link healthy (D-034).</text>
+    </g>
+    <g class="static" id="Note13">
+      <text x="12.0" y="288.5" text-anchor="start" dominant-baseline="middle" font-family="'Calibri', Arial" font-size="2.5" fill="rgb(0,0,0)">LNG-5006: P-5101 returns D-5101 into the header downstream of XV-5101 in the next cooldown (D-036). PZT-5181 / 5184 1oo2 5.0 barg: C&amp;E I-502.</text>
+    </g>
+  </g>
+</svg>
