@@ -1,10 +1,31 @@
 {
-  "generated_at": "2026-11-24T20:39:06.805739+00:00",
-  "plant": "LNG export marine terminal (lng-terminal-1, 2 x 225,000 m3, 28 MTPA)",
-  "site": "Kitimat, BC (reference site)",
-  "level": "BED 方案级可用：用于方案比选与下一阶段设计输入，不用于施工采购许可或安全决策",
-  "upstream": "ChemE-as-Code/process-library processes:lng-terminal-1",
+  "generated_at": "2026-11-24T21:17:56.528149+00:00",
+  "plant": "LNG export marine terminal（lng-terminal-1, 2×225,000 m³ / 28 MTPA / Kitimat BC）",
+  "level": "BED 方案级可用：用于方案比选与 FEED 设计输入；不用于施工、采购、许可或安全决策",
+  "upstream": "ChemE-as-Code/process-library process:lng-terminal-1",
+  "cheme_version": "cheme-as-code >= 1.5",
+  "freecad_version": "FreeCAD 1.0.0",
   "artifacts": [
+    {
+      "path": "cad/freecad-report.json",
+      "bytes": 202,
+      "sha256_16": "e6b35b680d12d997"
+    },
+    {
+      "path": "cad/lng-terminal-bed.FCStd",
+      "bytes": 479411,
+      "sha256_16": "fd430d726955d748"
+    },
+    {
+      "path": "cad/lng-terminal-bed.step",
+      "bytes": 2321829,
+      "sha256_16": "f1ef580f409ca032"
+    },
+    {
+      "path": "cad/plant-model.json",
+      "bytes": 2547571,
+      "sha256_16": "a67a7fc36931cdaf"
+    },
     {
       "path": "DESIGN.md",
       "bytes": 336875,
@@ -112,13 +133,13 @@
     },
     {
       "path": "MANIFEST.json",
-      "bytes": 6101,
-      "sha256_16": "47e54aff235d6cbc"
+      "bytes": 6781,
+      "sha256_16": "d696b0f228e6ebdc"
     },
     {
       "path": "MANIFEST.md",
-      "bytes": 3169,
-      "sha256_16": "001772025ed1616b"
+      "bytes": 3433,
+      "sha256_16": "15658fc7b460a5e0"
     },
     {
       "path": "pid/P-01.svg",

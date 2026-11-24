@@ -1,15 +1,19 @@
-# LNG Export Terminal BED 包清单
+# LNG BED 包清单
 
-生成时间：2026-11-24T20:39:06.805739+00:00
+生成时间：2026-11-24T21:17:56.528149+00:00
 
-**工厂**：LNG export marine terminal — 2 x 225,000 m3 full-containment tanks, 4 x 16 loading arms/berth, 28 MTPA rundown
+**工厂**：LNG export marine terminal（lng-terminal-1, 2×225,000 m³ / 28 MTPA / Kitimat BC）
 
-**上游**：ChemE-as-Code/process-library processes/lng-terminal-1
+**上游**：`ChemE-as-Code/process-library process:lng-terminal-1`
 
-> 定位：**BED 方案级可用**。用于路线比选、规模论证与下一阶段设计输入；不用于施工、采购、许可或安全决策。
+> 定位：**BED 方案级可用**。用于路线比选、规模论证与 FEED 设计输入；不用于施工、采购、许可或安全决策。
 
 | 文件 | 大小 (KB) | SHA256 前 16 位 |
 |---|---:|---|
+| cad/freecad-report.json | 0.2 | `e6b35b680d12d997` |
+| cad/lng-terminal-bed.FCStd | 468.2 | `fd430d726955d748` |
+| cad/lng-terminal-bed.step | 2267.4 | `f1ef580f409ca032` |
+| cad/plant-model.json | 2487.9 | `a67a7fc36931cdaf` |
 | DESIGN.md | 329.0 | `cb1ebe6944307ae6` |
 | dexpi/dexpi-check.json | 1.7 | `a46cd557ef86e3e4` |
 | dexpi/dexpi-check.md | 0.6 | `7e6f299e6301eefa` |
@@ -31,7 +35,7 @@
 | lca/cheme-lca-inventory.csv | 1.2 | `6d846aa2049448c3` |
 | lca/cheme-lca-results.csv | 0.2 | `97e72778ff76ec4e` |
 | lca/cheme-lca-results.md | 3.8 | `38b3da4c66bd712d` |
-| MANIFEST.md | 3.1 | `001772025ed1616b` |
+| MANIFEST.md | 3.4 | `15658fc7b460a5e0` |
 | pid/P-01.svg | 132.8 | `1ac0f40632fb403c` |
 | pid/P-02.svg | 147.9 | `5a77333bcf45f2a1` |
 | pid/P-03.svg | 149.5 | `b825dd0eee5e716f` |
